@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Private / company reference material
+data/private/
+data/reference/
+
+# Temporary data
+data/interim/*
+!data/interim/.gitkeep
