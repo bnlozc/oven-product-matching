@@ -26,3 +26,5 @@ data/reference/
 # Temporary data
 data/interim/*
 !data/interim/.gitkeep
+~lock.*#
+.~lock.*#
