@@ -1,0 +1,13 @@
+,,,,,,,,,,,,,,
+OVEN_FUNCT|ONS,V001,01-Top+Bottom | Bottom | Top,1,Top+Bottom,Bottom,Top,,,,,,,,
+OVEN_FUNCT|ONS,V002,02-Defrost | Top+Bottom | Top+Bottom+Fan | Grill |  Grill+Fan,2,Defrost,Top+Bottom,Top+Bottom+Fan,Grill,Grill+Fan,,,,,,
+OVEN_FUNCT|ONS,V003,03-Bottom | Top | Top+Bottom | Top+Bottom+Fan | Bottom+Fan,3,Bottom,Top,Top+Bottom,Top+Bottom+Fan,Bottom+Fan,,,,,,
+OVEN_FUNCT|ONS,V004,04-OvenLight | Defrost | Top+Bottom | Top+Bottom+Fan | Bottom+Fan | Grill+Turnspit | Double Grill+Turnspit | Double Grill+Fan+Turnspit,4,OvenLight,Defrost,Top+Bottom,Top+Bottom+Fan,Bottom+Fan,Grill+Turnspit,DoubleGrill+Turnspit,DoubleGrill+Fan+Turnspit,,,
+OVEN_FUNCT|ONS,V005,05-OvenLight | Defrost | Top+Bottom | Top+Bottom+Fan | Bottom+Fan | Grill | Double Grill | Double Grill+Fan,5,OvenLight,Defrost,Top+Bottom,Top+Bottom+Fan,Bottom+Fan,Grill,DoubleGrill,DoubleGrill+Fan,,,
+OVEN_FUNCT|ONS,V006,06-Defrost |  Fan+Ring | Top+Bottom | Top+Bottom+Fan | Grill | Double Grill | Double Grill + Fan | Pyrolysis,6,Defrost,Fan+Ring,Top+Bottom,Top+Bottom+Fan,Grill,DoubleGrill,DoubleGrill+Fan,Pyrolysis,,,
+OVEN_FUNCT|ONS,V007,07-Defrost |  Fan+Ring | Top+Bottom | Top+Bottom+Fan | Grill+Turnspit | Double Grill+Turnspit | Double Grill + Fan + Turnspit | Pyrolysis,7,Defrost,Fan+Ring,Top+Bottom,Top+Bottom+Fan,Grill+Turnspit,DoubleGrill+Turnspit,DoubleGrill+Fan+Turnspit,Pyrolysis,,,
+OVEN_FUNCT|ONS,V008,08-OvenLight | Defrost | Fan+Ring | Top+Bottom | Top+Bottom+Fan | Pizza | Grill | Double Grill | Double Grill+Fan | HydroClean,8,OvenLight,Defrost,Fan+Ring,Top+Bottom,Top+Bottom+Fan,Pizza,Grill,DoubleGrill,DoubleGrill+Fan,HydroClean,
+OVEN_FUNCT|ONS,V009,09-Defrost | TURBO | Bottom | Top+Bottom | Top+Bottom+Fan | Pizza |Double Grill |Double Grill+Fan | 3D | HydroClean,9,Defrost,TURBO,Bottom,Top+Bottom,Top+Bottom+Fan,Pizza,DoubleGrill,DoubleGrill+Fan,3D,HydroClean,
+OVEN_FUNCT|ONS,V010,10-OvenLight | Defrost | Fan+Ring | Top+Bottom | Top+Bottom+Fan | Pizza | Grill | Double Grill | Double Grill+Fan | HydroClean | Steam,10,OvenLight,Defrost,Fan+Ring,Top+Bottom,Top+Bottom+Fan,Pizza,Grill,DoubleGrill,DoubleGrill+Fan,HydroClean,Steam
+OVEN_FUNCT|ONS,V011,11-OvenLight  |  Defrost  |  TURBO  |  Bottom  |  Top+Bottom  |  Top+Bottom+Fan  |  Pizza  |  Grill  | Double Grill  |  Double Grill+Fan  |  HydroClean,11,OvenLight,Defrost,TURBO,Bottom,Top+Bottom,Top+Bottom+Fan,Pizza,Grill,DoubleGrill,DoubleGrill+Fan,HydroClean
+OVEN_FUNCT|ONS,V012,12-Defrost | TURBO | Bottom | Top+Bottom | Top+Bottom+Fan | Pizza | Grill | Grill+Fan | 3D | Double Grill  | Double Grill Fan,12,Defrost,TURBO,Bottom,Top+Bottom,Top+Bottom+Fan,Pizza,Grill,Grill+Fan,3D,DoubleGrill,DoubleGrill+Fan

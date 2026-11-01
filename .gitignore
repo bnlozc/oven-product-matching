@@ -4,6 +4,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv-app/
 venv/
 env/
 
@@ -28,3 +29,8 @@ data/interim/*
 !data/interim/.gitkeep
 ~lock.*#
 .~lock.*#
+
+# API credentials
+.env
+.env.*
+!.env.example

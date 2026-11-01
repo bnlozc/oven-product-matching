@@ -1,0 +1,1034 @@
+﻿REQUEST_ID,LLM_TEXT,INPUT_TOKENS,OUTPUT_TOKENS
+R0006,"I'm looking for a 70 cm wide stainless steel oven, preferably around 75 liters, that includes a rotisserie turnspit.",185,45
+R0010,"I'm looking for a steam oven with a digital timer control; ideally around 65 liters and preferably fitted with two telescopic rails, but the steam function and digital timer are must-haves.",188,56
+R0011,"I'm looking for a combination oven with four knobs, eight cooking functions, and a dark silver control panel; I would prefer it not to include a rotisserie/spit.",202,52
+R0013,"I'm looking for a black oven with exactly three cooking functions, preferably without a timer.",167,35
+R0017,"I'm looking for a steam oven with energy rating A++, three cooking functions, and two roasting trays; I’d prefer it to have K3-style knobs and controls without a timer.",221,54
+R0020,"I'm looking for a silver panel combination oven with a white retractable knob, ideally with one baking tray.",203,39
+R0022,"I'm looking for an oven with a glass front, exactly three cooking functions, no pizza tray, and that doesn't include a timer.",186,44
+R0033,"I'm looking for an oven about 70 cm wide, with rotary knobs of the K3 style, shipped in a box — please make the knob type and rotary knob structure mandatory in the specs.",181,57
+R0034,I'm looking for an oven that definitely does not have Wi‑Fi and that features an easy-to-use self-cleaning system like catalytic liners or steam cleaning.,144,49
+R0042,I'm looking for a new built-in oven that offers five different cooking functions and features a pyrolytic self-cleaning cycle.,152,43
+R0043,"I'm looking for a 60 cm built-in oven with a black control panel and black knobs, packaged with shrink wrap; ideally it would come without a roasting tray and, if possible, include two telescopic rails.",219,61
+R0044,I'm looking for a stainless steel oven that definitely includes two roasting trays and preferably has a rotisserie spit.,170,39
+R0045,"I'm looking for a black oven with catalytic self-cleaning, about 70 cm wide, ideally including one baking tray and an electronic touch timer control.",203,48
+R0048,"I'm looking for a 90 cm wide oven with K5-style knobs, no roasting tray included, and that has a pyrolysis self-cleaning function.",186,49
+R0052,"I'm looking for a black oven with a rotary knob design, an electronic touch timer for controls, and exactly eight functions; I don't want a pizza tray, and if possible I'd prefer the K1 style knobs.",221,60
+R0058,"I'm looking for a 45 cm wide oven without a timer, ideally with a rotary control knob and preferably without any wire shelving.",186,44
+R0059,"I'm looking for a combination oven with an H4-style handle and no timer, preferably with a glass front about 45 cm wide and definitely in white.",215,49
+R0060,"I'm looking for a dark silver combination oven with a turnspit, one baking tray, A++ energy efficiency, and HydroClean self-cleaning—these features are essential.",220,53
+R0061,"I'm looking for a 90 cm wide oven, about 82 liters, preferably with two baking trays and around five cooking functions, ideally with HydrocClean self-cleaning and no rotisserie; the required width must be 90 cm.",221,66
+R0066,I'm looking for a compact oven about 45 cm wide with exactly ten cooking functions and that comes with two baking trays.,168,42
+R0067,"I'm looking for a silver oven, preferably with an easy-to-clean setup.",146,33
+R0069,"I'm looking for a stainless-steel oven with a digital timer, H4-style handle, and Hydroclean self-cleaning; a metal front panel is preferred but not required.",201,53
+R0073,I'm looking for a silver oven — ideally with an easy-clean feature — that fits a modern kitchen.,146,38
+R0074,"I'm looking for a black, convection oven with K2-style knobs and no telescopic rails; I’d prefer one that has an easy-to-maintain cleaning system like self-clean or catalytic panels.",201,57
+R0076,"I'm looking for a 90 cm steam oven with electronic touch controls and a timer, easy to clean (self-cleaning or similar), and preferably with a handle style H2.",199,54
+R0078,"I'm looking for a combination oven with one set of telescopic rails, two baking trays, and an electronic touch timer — ideally around 45 cm wide.",209,49
+R0081,"I'm looking for an oven with K1-style knobs, an H4 handle, a metal control panel, and a hydroclean self-cleaning function.",182,48
+R0082,"I'm looking for a steam oven with exactly five functions, no Wi‑Fi, and packaged in a box; I'd prefer it without a pizza tray and with two wire shelves if possible.",217,55
+R0085,"I'm looking for a combination oven with retractable knobs, two baking trays and one roasting tray, a silver handle, and catalytic cleaning.",224,45
+R0097,I'm looking for a silver oven with HydroClean self-cleaning and three functions; a model around 45 cm wide would be preferred.,183,45
+R0103,I'm looking for an oven that has a retractable knob design and offers three cooking functions.,152,36
+R0104,"I'm looking for a steam oven with rotary knobs for the controls; the rotary knob design is essential, while the steam function is preferred.",149,45
+R0107,I'm looking for an oven without any wire shelving and it must offer exactly five functions.,152,35
+R0108,"I'm looking for a 45 cm wide oven that comes in a box and must include a pizza tray; ideally it would have easy cleaning and an electronic touch timer, but those are optional.",200,56
+R0109,I'm looking for a 60 cm wide steam oven — please show me options with steam cooking capability.,148,38
+R0110,"I'm looking for a 60 cm oven with a digital timer and rotary knobs, two wire shelves, and no baking tray; catalytic self-cleaning would be a nice option.",221,53
+R0111,I'm looking for a compact oven about 65 liters in capacity and exactly 45 cm wide; it should be available if possible at that size.,149,47
+R0113,"I'm looking for a steam oven with a glass front, white control knobs, two telescopic rails and two baking trays; the steam feature is preferred but the other specs are required.",204,54
+R0115,"I'm looking for a convection oven (if available) with an electronic touch timer, retractable knobs, no rotisserie/turnspit feature, and ideally Wi‑Fi connectivity.",203,54
+R0122,"I'm looking for a convection oven that definitely comes with two roasting trays, one baking tray, and K3-style knobs; ideally it would have a stainless steel front and about five cooking functions.",225,56
+R0125,"I'm looking for a white oven, about 70 cm wide, and if possible it should include a pizza tray.",164,41
+R0126,I'm looking for a combination oven with a sleek glass control panel and retractable knobs; it should offer ten different cooking functions and ideally be around 45 cm wide.,202,51
+R0128,"I'm looking for a 90 cm wide dark silver oven with three cooking functions; it should have one wire shelf and, if possible, feature HydrocLean steam cleaning.",203,52
+R0130,"I'm looking for an oven with ten different cooking functions, preferably featuring an H5-style handle in black.",164,39
+R0132,"I'm looking for a 60 cm convection oven with white knobs, energy class A, that comes with one baking tray and must include a pizza tray.",217,48
+R0144,"I'm looking for a convection oven with three functions, a glass control panel, no telescopic rails, about 90 cm wide, and preferably with two wire shelves.",223,51
+R0145,"I'm looking for a combination oven, and if possible I'd like one with the H1-style handle.",149,38
+R0151,"I need a 70 cm wide stainless steel oven with an 82‑liter capacity, catalytic self‑cleaning, three cooking functions, and no timer on the control panel.",223,54
+R0153,I'm looking for a built-in steam oven with an 82-liter capacity and an electronic touch timer; I'd prefer it to have a silver front and white handle if possible.,201,52
+R0155,"I'm looking for an oven with a digital timer and no Wi‑Fi, no telescopic rails, preferably with HydroClean self‑cleaning, one roasting tray, and H2‑style handles.",220,58
+R0156,"I'm looking for a steam oven, 70 cm wide with an 82-liter capacity, that includes a pizza tray; I don't want a rotisserie function, and I'd prefer stainless-steel knobs.",221,58
+R0164,"I'm looking for a steam oven with pyrolytic self-cleaning, one roasting tray and telescopic rails; if possible I'd prefer it to have a black handle.",206,51
+R0165,I'm looking for a conventional oven without telescopic rails and that does not have Wi‑Fi connectivity.,150,38
+R0169,I'm looking for a dark silver oven with white rotary knobs and no baking tray; it must have ETC cleaning and ideally be about 45 cm wide.,215,48
+R0173,"I'm looking for a combination oven with three functions, a white handle, no roasting tray, rotary knobs, and a turnspit; having the combination type is preferred but the other features are required.",219,58
+R0175,"I'm looking for a stainless steel steam oven with a 50‑liter capacity that uses rotary knobs and features HydroClean self‑cleaning — the cleaning, knob type, volume, and steam function are must-haves, while the stainless steel finish is preferred.",204,70
+R0176,"I'm looking for a white oven with a white control panel and white handle, no Wi‑Fi, and a non-self‑cleaning (ETC) cleaning option.",174,52
+R0178,I'm looking for a silver oven with exactly 10 cooking functions — please ensure it has a stainless silver finish and the full set of ten functions is included.,149,49
+R0180,"I'm looking for a convection oven with electronic touch controls and a timer, equipped with two roasting trays and no telescopic rails; ideally it would be about 45 cm wide.",209,53
+R0181,"I'm looking for a steam oven with a metal front, energy rating A+, and four control knobs; it must have no timer and should not include telescopic rails. The steam function is preferred, and a metal panel is preferred, but the A+ energy class and the four-knob design with no telescopic rails are essential.",221,84
+R0184,I'm looking for a stainless steel oven with stainless steel knobs; I don't want telescopic rails.,175,37
+R0185,I'm looking for a 90 cm oven that includes two wire shelves and is operated without a timer.,169,38
+R0186,"I'm looking for a steam oven with white knobs, an H2-style handle, and a white control panel—having the steam function is preferred but not required.",179,50
+R0190,"I'm looking for a self-cleaning oven with a 65-liter capacity, and I'd prefer one with K3-style knobs if available.",165,45
+R0191,I'm looking for a combination oven with a white handle and a dark silver control panel — it should ideally offer five different functions.,199,43
+R0208,"I'm looking for a combination oven with a glass front panel and black panel and handle, featuring catalytic cleaning, and preferably a digital timer.",214,45
+R0216,I'm looking for a slim built-in oven about 45 cm wide and it should come with a pizza tray—please let me know options and prices.,149,48
+R0217,I'm looking for an oven that has an electronic touch timer and features HydroClean self-cleaning.,153,37
+R0218,I'm looking for a 60 cm oven with a dark silver glass front; ideally it would come without a baking tray but with a wire shelf included.,202,48
+R0219,"I'm looking for a silver oven with a hinged handle style, ideally offering around 11 different cooking functions.",165,39
+R0222,"I'm looking for a 90 cm oven with Wi‑Fi connectivity, an electronic touch timer control, and one wire shelf; the touch-timer and single wire shelf are must-haves, while Wi‑Fi is preferred.",184,63
+R0223,I'm looking for a combination oven with built-in Wi‑Fi and retractable knobs; I prefer it to have no telescopic rails and would like it to come with two baking trays.,206,55
+R0228,"I'm looking for a 60 cm wide oven with push-and-turn style knobs — ideally a combo oven that can do both conventional baking and microwave/steam functions, but the 60 cm width and the knob controls are the must-haves.",166,66
+R0229,"I'm looking for a 45 cm steam oven with a rotary knob and a silver handle; if possible, I'd prefer it to be energy class A.",196,48
+R0231,I'm looking for a combination oven with a 70 cm width and A+ energy rating; it must have an H5-style handle and preferably an electronic touch timer.,201,51
+R0240,"I'm looking for an oven with eight cooking functions, a metal front panel, an electronic touch timer control, and a black handle—please prioritize the eight functions and metal panel if possible, and make sure the control is an electronic touch timer and the handle is black.",184,71
+R0242,"I'm looking for a stainless steel oven, preferably with a glass front, that fits a modern kitchen.",150,38
+R0252,"I'm looking for an oven with a 75-liter capacity, stainless steel knobs, and an electronic touch timer; I don't need a baking tray included.",192,48
+R0259,"I'm looking for a 70 cm oven with K3-style knobs and a H3 handle—please ensure it has no wire shelves, a glass front panel if possible, and an optional digital timer control.",216,59
+R0261,"I'm looking for a combination oven in silver, preferably with silver knobs and an easy-clean (ETC) finish, and it must have a digital timer and two telescopic rails.",219,54
+R0265,I'm looking for a black oven with a silver knob and the HydroClean self-cleaning system — these features are must-haves.,165,44
+R0266,I'm looking for a 90 cm stainless steel oven with K1-style knobs and pyrolytic self-cleaning; I don't want a pizza tray included.,204,49
+R0267,"I'm looking for a dark silver oven with retractable knobs and no timer on the controls; it must include a pizza tray and no wire shelves, and ideally around a 75-liter capacity.",225,56
+R0271,I'm looking for a built-in oven with an A++ energy rating; I don't need Wi‑Fi connectivity.,145,40
+R0275,"I'm looking for a 45 cm wide oven with a glass control panel, retractable knobs, hydroclean self-cleaning, and exactly 10 cooking functions; an energy efficiency rating of A would be preferred.",217,61
+R0280,"I'm looking for a metal-front oven with a rotary knob design; ideally it's about 70 cm wide and, if possible, without a built-in timer.",183,49
+R0282,"I'm looking for a combination oven with knob controls, no Wi‑Fi, pyrolytic self‑cleaning, and an energy rating of A; if possible it would include two telescopic rails.",219,58
+R0288,"I'm looking for a black oven with hydroclean self-cleaning, one roasting tray and telescopic rails, and it should offer eight cooking functions.",206,47
+R0291,"I'm looking for a steam oven with a glass control panel, eight cooking functions, and rotary knobs for the controls.",183,41
+R0293,"I'm looking for a countertop oven with a white front panel and black control knobs that includes a turnspit, comes with a pizza tray, and offers exactly five cooking functions.",199,53
+R0306,I'm looking for a convection oven in a silver finish that comes with two baking trays.,168,35
+R0315,I'm looking for a combination oven that has an electronic touch timer and comes with an EU-type power plug.,172,39
+R0319,"I'm looking for a new oven with a metal control panel, and I absolutely do not want any Wi‑Fi or smart features.",145,44
+R0321,"I'm looking for an oven that has A++ energy efficiency, exactly three cooking functions, and offers a pyrolytic self-cleaning option.",168,46
+R0324,I need a 70 cm wide oven with a white metal control panel and an easy-to-clean finish — this is essential.,177,43
+R0326,"I'm looking for a convection oven that has an electronic touch timer, 11 functions, retractable K4-style knobs, and no rotisserie spit; the retractable K4 knobs and the absence of a turnspit are essential. The electronic touch timer and convection feature are preferred.",224,75
+R0333,"I'm looking for a convection oven that includes one baking tray and one wire shelf, with catalytic cleaning; ideally it would offer 8 cooking functions, though that's optional.",207,51
+R0334,"I'm looking for a white oven with pyrolytic self-cleaning, without a timer, and ideally with steam-cooking capability.",185,44
+R0335,"I'm looking for a combination oven, preferably with an EU-type power plug and stainless-steel handles.",171,38
+R0336,I'm looking for a stainless steel oven with no baking trays included; I don't need a turnspit and would prefer it not to have a pizza tray.,188,49
+R0339,I'm looking for an oven that comes with two roasting trays and doesn't have a built-in timer.,153,37
+R0341,"I’m looking for a convection oven with an electronic touch timer control, and I’d like it to offer 11 cooking functions.",171,44
+R0344,"I'm looking for a dark silver oven with a white handle, one roasting tray, and easy-care cleaning, and it must have those exact colors and that single tray; ideally it would come without a timer and with retractable knobs, though those last two are optional.",219,71
+R0346,"I'm looking for a stainless steel oven with a digital timer, K5-style knobs, and five cooking functions—please treat the knob type and digital timer as essential features.",186,52
+R0348,"I'm looking for an oven that has a pair of telescopic rails, includes one wire shelf, and preferably features an electronic touch timer control.",175,46
+R0350,"I'm looking for an oven without a plug on the power cable, with two telescopic rails, and ideally fitted with the H1 style handle.",171,47
+R0351,I'm looking for a steam oven about 45 cm wide with a stainless steel handle (style H1) and five cooking functions; it would be great if it also includes two wire shelves.,220,56
+R0354,"I'm looking for a black oven with a glass front panel, and I prefer it not to include any wire shelving.",165,41
+R0356,"I'm looking for a convection oven with a black glass control panel and black handles and knobs, and it must have HydroClean self-cleaning.",213,46
+R0358,"I'm looking for an oven with a dark silver finish, no timer controls, pyrolytic self-cleaning, and it must include a pizza tray.",188,48
+R0362,I'm looking for a 60 cm wide oven with a 65-liter capacity that has retractable knobs and comes with a pizza tray; I'd prefer one with easy-clean features if possible.,201,55
+R0365,"I'm looking for an oven with exactly three cooking functions, no Wi‑Fi capability, and preferably a hydrating steam-cleaning (HydroClean) option.",165,50
+R0368,"I'm looking for a 60 cm wide steam oven that comes with hydroclean self-cleaning, and please ensure no baking tray is included.",185,47
+R0374,I'm looking for a 60 cm oven and would prefer one with the H2 style handle.,147,37
+R0375,"I'm looking for an oven with a H-style handle, no timer function, and a pyrolytic self-cleaning cycle.",169,43
+R0379,I'm looking for a built-in oven with eight cooking functions and an energy rating of A.,148,36
+R0387,"I'm looking for a convection oven in stainless steel with a digital timer, about 82 liters capacity, offering exactly five functions, and it would be great if it also has Wi‑Fi connectivity.",220,57
+R0393,I'm looking for a convection oven and it must be energy class A; please show me options that meet those specs.,148,41
+R0394,"I'm looking for a white oven that includes a rotisserie spit and a pizza tray, comes with one baking tray, has K3-style knobs, and features an easy-to-clean (ETC) cleaning system—please treat the listed features as required.",216,68
+R0407,"I'm looking for a boxed combination oven (preferable) with a white handle, catalytic cleaning, no turnspit, and two roasting trays—those features are must-haves.",218,54
+R0408,I need an oven that has an electronic touch timer and offers easy cleaning (self-cleaning or similar).,150,39
+R0410,"I'm looking for an oven with five cooking functions, a single telescopic rail, catalytic self-cleaning, H2-style handle, no Wi‑Fi, and preferably an A++ energy rating.",218,57
+R0411,"I'm looking for a 70 cm oven with retractable knobs, an electronic touch timer control, and an easy-to-clean finish.",185,44
+R0413,I'm looking for a 45 cm wide silver oven with two roasting trays; Wi‑Fi isn't necessary.,180,39
+R0418,I'm looking for a convection oven that has an electronic touch timer control.,153,32
+R0420,"I'm looking for an oven with stainless steel knobs and no Wi‑Fi; I’d also prefer the H3 style handle if possible, and it must not include a roasting tray.",184,54
+R0422,I'm looking for a combination oven with a H5-style handle—please include that exact handle type as a must-have.,149,42
+R0427,"I'm looking for a convection oven with a dark silver front, H2-style handle and K4 knobs; it should offer 11 functions and preferably include a pyrolysis self-cleaning feature.",220,56
+R0428,"I'm looking for an oven with a sturdy handle, a digital timer control, and preferably a combination oven that offers both convection and microwave cooking.",166,46
+R0431,I'm looking for an oven that doesn't come with a roasting tray and that has oven controls without a timer.,153,39
+R0433,I'm looking for a 45 cm wide oven with a silver handle — the handle must be the H5 style.,163,41
+R0435,"I'm looking for an oven with a touch-control electronic timer, a K1-style knob, exactly ten cooking functions, no telescopic rails, preferably without a roasting tray, and a H3-type handle.",226,59
+R0440,"I'm looking for a 75-liter, 60 cm wide oven with white control knobs, ten cooking functions, and an easy-cleaning system — these features are must-haves.",198,54
+R0445,"I'm looking for a built-in oven that has 11 cooking functions, uses the K2-style control knobs, does not include a rotisserie spit, and features an electronic touch timer; ideally it would be about 70 cm wide with roughly a 65 L capacity.",221,72
+R0448,I'm looking for a stainless steel oven but it must be one without a timer — please let me know available models.,153,41
+R0449,I'm looking for an oven with A+ energy efficiency and the HydroClean steam-clean function.,149,36
+R0450,"I'm looking for a 45 cm wide combination oven with one roasting tray, retractable knobs, and HydroClean self-cleaning; I don't need a timer function.",224,51
+R0453,I'm looking for a 65-liter oven with a silver handle and the H1-style handle—having a pizza tray would be optional but not required.,183,48
+R0455,I'm looking for an oven with a 50-liter capacity and an easy-cleaning option; I'd prefer one with K2-style control knobs if possible.,165,48
+R0458,"I'm looking for a combination oven with five functions, an electronic touch timer control and the H5-style handle; I'd prefer it in silver if possible.",203,48
+R0464,"I'm looking for a stainless steel oven with two baking trays and an electronic touch timer control; I don't want a rotisserie/turnspit, and I would prefer pyrolytic self-cleaning and around ten cooking functions if possible.",227,65
+R0465,"I'm looking for a white oven, 60 cm wide, that has 10 functions, comes with a pizza tray, and features catalytic cleaning; if possible it should have a UK-type plug.",219,57
+R0467,"I'm looking for a convection oven with a white handle, no Wi‑Fi, and a pyrolysis self‑clean option; I'd prefer it to have knob type K3 and the handle style H4.",214,59
+R0472,"I'm looking for a 60 cm wide oven with a solid handle design, equipped with telescopic rails and a built-in rotisserie.",185,45
+R0475,"I'm looking for an oven that does not include Wi‑Fi connectivity, has no baking tray, and offers an easy-to-maintain, self-cleaning solution like catalytic or pyrolytic cleaning.",163,57
+R0477,"I'm looking for an oven with a silver finish on the control knobs, ideally with K5-style knobs and around three cooking functions; energy class A would be preferred.",182,51
+R0479,I'm looking for an oven that includes a pyrolytic self-cleaning function and comes with exactly one roasting tray.,153,41
+R0485,"I'm looking for an oven with a glass control panel, no pizza tray, an electronic touch timer, easy-to-clean features, no roasting tray, and exactly three functions.",221,52
+R0487,"I'm looking for a built-in oven with a rotisserie spit, a silver handle, and preferably about 60 cm wide.",164,43
+R0489,"I'm looking for a convection oven with a single baking tray; I prefer one that has eight functions, a stainless steel panel, and a digital timer, and I don't want a rotisserie/turnspit.",223,60
+R0490,"I'm looking for a 70 cm steam oven in stainless steel, with no rotisserie feature, and it must include one wire shelf—please consider the width and stainless finish as essential, while the steam type, no turnspit, and single wire shelf are preferred.",203,72
+R0491,"I'm looking for a 70 cm wide oven with five functions, stainless steel control knobs, a rotisserie spit, and a pizza tray; I don't need a timer function.",223,53
+R0492,"I'm looking for a black oven around 65 liters that has hydroclean self-cleaning and about five cooking functions — the color, size and cleaning feature are important to me.",184,53
+R0495,I'm looking for a built-in oven with a 90 cm width and about a 65 liter capacity; I’d prefer it to have around 10 cooking functions and a black control panel.,182,56
+R0504,"I'm looking for a convection oven with three functions, preferably in a dark silver finish.",168,35
+R0506,"I'm looking for a combination oven in a silver finish with catalytic self-cleaning, ideally without a pizza tray and preferably including two roasting trays.",204,46
+R0508,"I'm looking for a steam oven with HydroClean self-cleaning, a rotary control knob, and the H5 style handle.",183,43
+R0510,I'm looking for a 90 cm wide combination oven that has a rotisserie function and no timer control; ideally it would include one wire shelf.,204,47
+R0511,"I'm looking for a white oven with a pizza tray and two telescopic rails, featuring an electronic touch timer; an A++ energy rating would be preferred.",205,49
+R0513,"I'm looking for a 70 cm wide oven that comes with two baking trays and one roasting tray, has a silver handle, and offers eight different cooking functions—these features are preferred but flexible.",203,57
+R0515,I'm looking for a compact 45 cm oven without Wi‑Fi; a model without a rotisserie would be preferred but not required.,162,45
+R0517,"I'm looking for an oven with a 65‑liter capacity, easy-to-clean features, delivered in a box, and without a roasting tray.",183,47
+R0518,"I'm looking for an oven that has an electronic touch timer, comes with K4-style knobs, and includes one baking tray—preferably available as an option rather than mandatory.",171,53
+R0520,"I'm looking for an oven with a 50-liter capacity that has an easy-to-use self-cleaning option; I'd prefer one with two control knobs and a dark silver front, but the knobs and color are not essential.",182,62
+R0525,I'm looking for a 45 cm combination oven with a silver control panel and black knobs; I would prefer it to have a digital timer.,198,46
+R0528,"I'm looking for a 65‑liter oven about 70 cm wide with a dark silver control panel, two wire shelves, K3-style knobs, and no timer — the panel and exact width are preferred but the knob type and two wire shelves are essential.",221,70
+R0532,"I'm looking for a 45 cm combination oven with a black knob, and it must include a single baking tray; if possible I'd prefer an energy class A model.",199,51
+R0536,"I'm looking for a new oven with white handles and white knobs, and it must not have Wi‑Fi.",160,40
+R0538,I'm looking for a built-in oven with a silver control knob and a metal front panel; I do not want Wi‑Fi connectivity.,162,45
+R0543,"I'm looking for a convection oven in dark silver finish with no turnspit; preferably it has catalytic self-cleaning and an electronic touch timer, but the dark silver color and no turnspit are must-haves.",205,62
+R0545,"I'm looking for an oven with exactly five cooking functions, a black handle, stainless steel control panel, and an easy cleaning system (like catalytic, pyrolytic or steam cleaning).",182,54
+R0547,I'm looking for a metal-front oven with a white handle—please make sure the handle is white and the oven has a metal control panel.,146,46
+R0554,I'm looking for a combination oven with a digital timer and a metal control panel; if possible I'd prefer the control panel to be black.,181,45
+R0563,"I'm looking for a glass-front oven with no built-in timer, preferably offering five cooking functions.",168,37
+R0564,I'm looking for a convection oven that has a rotary knob for controls.,150,32
+R0565,"I'm looking for an oven with a digital timer, A++ energy rating, and the HydroClean self-cleaning feature.",166,42
+R0578,"I'm looking for a built-in oven about 45 cm wide with energy class A and hydroclean self-cleaning, preferably with black knobs and supplied without a power cable.",199,52
+R0585,I'm looking for a steam oven around 65 liters with five cooking functions; I'd prefer one that has a HydroClean-style easy-clean feature.,186,46
+R0586,I'm looking for a silver oven with stainless-steel knobs and no wire shelves; it must have a pyrolytic self-cleaning function and preferably an electronic touch timer.,209,52
+R0588,"I'm looking for an oven that has 11 cooking functions, a K1-style knob, comes with an ""ETC"" cleaning system, and includes exactly one wire shelf.",184,53
+R0592,"I'm looking for a combination oven with a digital timer—I don't need a pizza tray, thanks.",168,38
+R0598,"I'm looking for a steam oven with a white handle that definitely has Wi‑Fi connectivity, and it would be great if the handle is white.",161,47
+R0601,"I'm looking for a black steam oven that has one roasting tray, no pizza tray, and an easy-to-clean finish; ideally it would be the version without a timer built into the controls.",218,56
+R0606,"I'm looking for an oven with a metal control panel and no wire shelving, please.",150,35
+R0609,I'm looking for a convection oven for my kitchen—no smart/Wi‑Fi features please.,147,37
+R0610,"I'm looking for an oven with a H-style handle, a pyrolytic self-cleaning cycle, and a digital timer control — I’d prefer it in a dark silver finish if available.",184,56
+R0612,"I'm looking for a 60 cm wide oven with retractable knobs and energy class A+, no Wi‑Fi, no timer included, and preferably comes without a baking tray.",218,53
+R0617,I'm looking for a 60 cm wide oven with catalytic self-cleaning—please let me know available models and prices.,149,42
+R0620,"I'm looking for a combination oven in a silver finish that has exactly ten functions, comes with two roasting trays and no baking tray, and ideally includes Wi‑Fi connectivity.",219,52
+R0623,"I'm looking for an oven that comes shrink-wrapped for delivery, with a metal front panel and a hydroclean self-cleaning function, featuring an electronic touch timer control; ideally it would include one roasting tray.",205,60
+R0627,"I'm looking for a steam oven that comes with two baking trays; preferably around 70 cm wide, with a digital timer, and fitted with an EU-type power plug.",203,52
+R0631,"I'm looking for an oven with a glass front and a shrink-wrapped package; it must include two telescopic rails, and I'd prefer it to have the H1-style handle.",185,54
+R0635,I'm looking for a combination oven with a dark silver metal control panel and exactly ten functions.,184,36
+R0636,"I'm looking for a 90 cm oven with an A+ energy rating and a digital timer; I would prefer it to have a rotary-style knob design, and I’d rather not have a pizza tray included.",199,60
+R0638,"I'm looking for a 60 cm wide oven with a stainless steel handle, no wire shelf included, and preferably an electronic touch timer; it should also have a turnspit feature.",206,55
+R0640,"I'm looking for an oven with a H-style handle, no wire shelving at all, and ideally with an electronic touch timer.",170,43
+R0641,"I'm looking for an oven that has an easy-clean function, an electronic touch timer control, comes with one baking tray, and is supplied without a plug on the power cable; ideally around 70 cm wide and about 75 liters capacity, though those last two are flexible.",222,73
+R0647,I'm looking for a steam oven with a digital timer and a UK-type power plug; I'd prefer one that has HydroClean and a silver control panel.,202,48
+R0649,I'm looking for a 60 cm oven in dark silver that has an ETC cleaning system (this is essential).,163,40
+R0650,"I'm looking for a built-in oven with a rotary knob control and, if possible, about 10 cooking functions.",150,41
+R0654,I'm looking for a silver metal-front oven with pyrolytic self-cleaning — must be a metal panel in silver and include pyrolysis for cleaning.,166,48
+R0658,I'm looking for a white oven with a retractable handle and retractable knobs; it must have a white front and those retractable controls are non-negotiable — I’d also prefer it include a digital timer if possible.,182,63
+R0662,"I'm looking for a steam oven with an easy, effective cleaning system — that's a must for me.",147,38
+R0665,"I'm looking for a silver oven about 75 liters in capacity with a digital timer, preferably with the timer feature and the silver finish if possible.",166,47
+R0666,"I'm looking for a convection oven, preferably with K5-style knobs, that delivers even baking and is easy to control.",150,42
+R0669,I'm looking for a 60 cm oven with pyrolytic self-cleaning; I don't want any Wi‑Fi features.,164,43
+R0670,"I'm looking for a stainless steel combination oven with a turnspit, eleven cooking functions, one wire shelf, and the H1-style handle — the turnspit, wire shelf and handle are preferences, but the stainless steel finish and the 11 functions are must-haves.",222,74
+R0672,"I'm looking for a combination oven in dark silver with K4-style knobs and A++ energy rating, and it must not include a roasting tray.",202,47
+R0688,"I'm looking for a steam oven, ideally about 90 cm wide, that offers around 11 cooking functions and includes Wi‑Fi connectivity.",180,46
+R0689,"I'm looking for a 90 cm convection oven with a stainless steel metal control panel and no timer—please prioritize the metal panel, stainless finish, and exact width, while convection is preferred.",203,56
+R0690,"I'm looking for a steam oven with exactly one roasting tray and one wire shelf, an electronic touch timer control, and 11 cooking functions; I’d prefer a silver finish but that’s optional.",224,57
+R0695,"I'm looking for a steam oven around 65 liters with eight cooking functions and hydroclean self-cleaning; preferably it would be energy class A++, but that's optional.",202,52
+R0698,"I'm looking for an oven with a silver handle and a dark silver control panel, and I do not want a rotisserie or turnspit function.",165,48
+R0700,"I'm looking for a dark silver oven with A+ energy rating, about 90 cm wide, featuring 11 functions, two wire shelves and two telescopic rails—please show options where the rails and width are as specified.",222,63
+R0720,"I'm looking for a steam oven that has an H2-style handle, comes with one roasting tray and one wire shelf, and preferably offers ETC cleaning.",201,48
+R0724,"I'm looking for a built-in oven with a horizontal bar handle, ten cooking functions, and ideally a 60 cm width.",165,43
+R0744,"I'm looking for a 70 cm wide oven with a 65‑liter capacity, two baking trays and telescopic rails (no rotisserie); ideally it would have the H5 style handle, but that's optional.",222,61
+R0746,"I'm looking for a combination oven with energy class A+ and retractable knobs; it must have H4-style handles and, if possible, telescopic rails.",205,50
+R0749,"I'm looking for a countertop convection oven with three functions, no Wi‑Fi, pyrolytic self‑cleaning, and an A+ energy rating; ideally it would be about 90 cm wide.",216,59
+R0750,"I'm looking for an oven that has an easy-to-clean finish, comes with one wire shelf, and features black control knobs.",165,43
+R0752,"I'm looking for a convection oven with 11 cooking functions, energy rating A+, and K1-style knobs; I don't need a wire shelf included.",203,48
+R0754,"I'm looking for an oven with three cooking functions, about an 82-liter capacity, energy rating A+, and simple controls without a timer.",186,46
+R0755,I'm looking for an oven with an internal volume of 82 liters that features Hydroclean self-cleaning and includes a pizza tray.,169,44
+R0756,"I'm looking for a steam oven, ideally around 45 cm wide, that can fit into a compact kitchen.",148,40
+R0757,"I'm looking for an oven that has the HydroClean self-cleaning system; I don’t want Wi‑Fi connectivity, and I’d prefer it to come with two wire shelves.",166,54
+R0763,"I'm looking for an oven that includes a digital timer, comes with two wire shelves, offers around five cooking functions, and must include a pizza tray.",187,48
+R0766,"I'm looking for an oven with ten cooking functions, a single baking tray, a metal control panel, and stainless-steel knobs.",188,44
+R0767,I'm looking for a convection oven and it's essential that it has HydrocClean self-cleaning.,151,37
+R0769,"I'm looking for a white oven with white knobs of the K1 style, an electronic touch timer control, ten cooking functions, and two roasting trays; a white control panel would be preferred.",220,56
+R0771,"I'm looking for an oven with a dark silver front, a stainless steel handle, and the HydroClean self-cleaning feature — these are must-haves.",169,49
+R0777,"I'm looking for an oven with a H3-style handle, stainless-steel knobs if possible, self-cleaning options, exactly 11 cooking functions, and including one roasting tray.",203,54
+R0786,"I'm looking to buy an oven that has a US-type plug, a digital timer control, and a pyrolysis self-cleaning function—these features are essential.",170,50
+R0787,I'm looking for a stainless steel oven with A energy rating that features a pyrolytic self-cleaning cycle; this must be included.,168,45
+R0795,"I'm looking for a 90 cm wide oven with pyrolytic self-cleaning and Wi‑Fi connectivity, it must not have a rotisserie function and should be supplied without any baking trays.",200,57
+R0796,"I'm looking for a dark silver oven with catalytic self-cleaning, and I'd prefer it to come with a baking tray.",169,42
+R0800,"I'm looking for an oven that has an 82‑liter capacity, offers eight cooking functions, includes two wire shelves, a stainless steel handle, retractable control knobs if possible, and comes without a roasting tray.",227,61
+R0802,"I'm looking for a 90 cm white oven with white knobs, electronic touch controls and timer, and an easy-care/cleaning system.",197,46
+R0813,"I'm looking for an oven that has a 70 cm width, an A energy rating, easy-clean (ETC) cleaning, and offers 10 different cooking functions.",179,52
+R0814,"I'm looking for a convection oven with a white handle and H3-style handle, preferably about 90 cm wide, ideally with a pizza tray and without a turnspit.",215,53
+R0815,"I'm looking for a 90 cm wide built-in oven in dark silver with an A energy rating, a digital timer control and HydroClean self-cleaning — telescopic rails are optional.",219,55
+R0819,"I'm looking for a 45 cm built-in oven with a silver H5-style handle, a digital timer control, and pyrolytic self-cleaning — preferably a convection model.",217,54
+R0821,I'm looking for a stainless steel oven that comes with two baking trays and includes a US-type power plug.,172,39
+R0823,"I'm looking for a countertop oven with a dark silver front, around 50 liters capacity, two wire shelves included, and that offers eight cooking functions.",187,48
+R0825,"I'm looking for a 70 cm steam oven in white with a matching white control panel, A+ energy rating, a white handle, and no wire shelf — please let me know available models.",213,57
+R0828,"I'm looking for a combination oven (50 L) that comes with one roasting tray; it should have an electronic touch timer and A+ energy rating if possible, and preferably offer Hydroclean self-cleaning.",224,59
+R0831,"I'm looking for a silver convection oven with a metal front, a single baking tray, electronic touch controls with a timer, and K1-style knobs.",221,48
+R0837,"I'm looking for a 60 cm wide oven with a white handle in style H2, energy class A, and 11 functions; I would also prefer one that includes a turnspit.",213,57
+R0838,"I'm looking for a 60 cm wide black oven with a 65 L capacity, Wi‑Fi connectivity, no pizza tray, and preferably with catalytic/eco self‑cleaning.",211,55
+R0840,"I'm looking for an oven in dark silver finish, and it must have the ETC cleaning system.",147,37
+R0841,I'm looking for a dark silver oven with K1-style rotary knobs and exactly 11 cooking functions.,184,38
+R0842,"I'm looking for a black oven with simple knob controls (no built‑in timer) and, if possible, a turnspit feature.",183,46
+R0843,I'm looking for an oven that has a self-cleaning pyrolysis cycle and is energy class A; I’d also prefer one that doesn’t have a built-in timer.,168,52
+R0844,"I'm looking for a combination oven with an 82-liter capacity, electronic touch controls and timer, EU plug, one set of telescopic rails, and an easy-to-clean finish — these features are required.",226,59
+R0845,"I'm looking for a 90 cm wide oven with two roasting trays, telescopic rails and five cooking functions.",189,40
+R0851,I'm looking for a white oven with energy class A; a model without a timer would be preferred.,164,38
+R0852,"I'm looking for an oven with a capacity of 82 liters that has an eco-friendly self-cleaning option, comes with a single baking tray, no telescopic rails, is 45 cm wide, and preferably has an A+ energy rating.",220,67
+R0854,"I'm looking for a 90 cm wide convection oven with handle style H5; it must have that specific handle and I don't want a timer built into the controls, though the convection feature is preferred.",184,58
+R0858,"I'm looking for a silver convection oven with one baking tray, no telescopic rails, and preferably without a timer.",208,41
+R0859,I'm looking for an oven with a glass front and an electronic touch timer.,151,33
+R0860,"I'm looking for a 45 cm-wide oven that definitely includes a pizza tray and has no timer control; if possible I'd prefer one with catalytic cleaning, an A+ energy rating, and around five cooking functions.",220,60
+R0875,"I'm looking for a combination oven (no pizza tray, please)—ideally with eight functions and a hydroclean self-cleaning feature, but the essential points are that it’s a combo oven and must not include a pizza tray.",187,65
+R0880,I'm looking for a white metal-front oven with K4-style knobs that has a pyrolytic self-cleaning function; preferably it's a combination oven and ideally comes with one baking tray.,219,55
+R0881,"I'm looking for a 45 cm wide oven, preferably one with Self-Cleaning functionality.",146,37
+R0883,I'm looking for a silver oven with an 82‑liter capacity and no timer controls; I'd prefer it to have Wi‑Fi and about 11 cooking functions.,200,51
+R0884,I'm looking for a convection oven with HydroClean self-cleaning and built-in Wi‑Fi connectivity.,165,38
+R0885,"I'm looking for a white oven with a glass control panel and white handles, preferably with two telescopic rails and a pizza tray, and the handle style should be H2.",216,53
+R0887,I'm looking for a convection oven with silver knobs and rotary-style controls; having no wire shelves would be preferable but not required.,186,43
+R0888,"I'm looking for a stainless steel convection oven with energy class A, two baking trays, an electronic touch timer, and no telescopic rails; the electronic timer is essential and the lack of rails is preferred.",227,59
+R0889,"I'm looking for a 90 cm wide built-in oven with electronic touch controls and a timer, A++ energy rating, and pyrolytic self-cleaning; having Wi‑Fi connectivity would be a plus.",200,60
+R0901,I'm looking for a 60 cm glass-front oven with no wire shelves; it would be great if it had Wi‑Fi connectivity.,180,45
+R0903,I'm looking for a convection oven (no pizza tray) that doesn't include a turnspit; preferably stainless steel with catalytic cleaning and around 70 cm wide.,221,50
+R0906,"I'm looking for a built-in oven that comes with a single baking tray, two telescopic rails, no wire shelves, and offers ten cooking functions, and it should have a digital timer control.",209,57
+R0907,"I'm looking for a combination oven with an 82-liter capacity and eight functions; it must not come with a pizza tray, and I’d prefer it to have white knobs.",203,53
+R0909,I'm looking for a combination oven with black knobs and a 60 cm width; it should have about 82 liters capacity and can be without a timer.,202,49
+R0911,I'm looking for a dark silver oven and it'd be great if it has a pyrolysis self-cleaning feature.,151,40
+R0915,"I'm looking for a black oven with hydroclean self-cleaning, the H1 style handle, no rotisserie option, and it shouldn't come with a baking tray; I’d preferably like one that offers about ten cooking functions.",218,63
+R0917,"I'm looking for a white oven with a handle-style H1, one roasting tray, easy-to-clean finish (ETC), and supplied without a plug on the power cable; ideally around 45 cm wide.",215,60
+R0918,"I'm looking for a combination oven in stainless steel about 60 cm wide with a rotary knob control, no telescopic rails, and it should come with one roasting tray.",225,52
+R0919,I'm looking for a 60 cm wide built-in oven with no timer and an A++ energy rating.,166,39
+R0923,"I'm looking for a stainless steel oven with black knobs that features HydroClean for self-cleaning. It should come without any baking tray, and ideally offer around 11 cooking functions.",205,54
+R0924,I'm looking for an oven that has a digital timer and an easy clean function; I would prefer a white model with a metal front if available.,178,47
+R0930,"I'm looking for a combination oven with an 82-liter capacity and a H2-style handle; it must have exactly 11 functions and no built-in timer, please.",204,52
+R0935,"I'm looking for an oven that has the HydroClean self-cleaning function built in, and if possible comes with no baking tray included.",152,45
+R0937,"I'm looking for a silver oven with ten cooking functions, hydroclean self-cleaning, two telescopic rails, and one wire shelf.",207,45
+R0938,I'm looking for a 45 cm wide oven with a glass front and K3-style knobs; I would prefer it to have a digital timer.,181,47
+R0939,I'm looking for a black oven with K5-style knobs — that's a must — please let me know models that match.,147,42
+R0944,I'm looking for an oven that has retractable knobs and features HydroClean self-cleaning.,152,36
+R0946,I'm looking for a 60 cm built-in oven with a silver metal front; I'd prefer it to have an H4-style handle if possible.,179,47
+R0947,"I'm looking for an oven that has exactly 10 functions, with a dark silver finish on the control panel, and it must include a digital timer. I would prefer one that offers easy cleaning options, and it would be nice if it comes with one baking tray.",201,71
+R0948,"I'm looking for a compact 45 cm wide oven with 11 cooking functions and two wire shelves; it should not include a pizza tray, and I’d prefer a model with HydroClean steam-assisted cleaning.",204,59
+R0961,"I'm looking for a combination oven with stainless-steel front and black handle; it should come without any wire shelves and not include a pizza tray, and the control panel should be metal.",220,55
+R0967,"I'm looking for a convection oven with an H-style handle, exactly eleven functions, and preferably that comes with two roasting trays.",186,43
+R0968,"I'm looking for a 60 cm wide oven with a 65 L capacity, no timer control, one roasting tray, hydroclean self-cleaning, and no wire shelf.",224,53
+R0976,"I'm looking for a 70 cm wide built-in oven with pyrolytic self-cleaning, a digital timer control, rotary knobs, and exactly eight cooking functions; a model without a power cable would be preferable.",221,61
+R0979,"I'm looking for an oven with a metal control panel, and it must have a pyrolytic self-cleaning function.",150,42
+R0984,I'm looking for a steam oven that has an easy-clean feature and around three cooking functions.,165,36
+R0992,"I'm looking for a dark silver oven with a traditional knob control, no baking tray included, and built-in telescopic rails—please make those features mandatory.",189,49
+R0993,"I'm looking for an oven with a glass front in dark silver, three cooking functions, no rotisserie, no wire shelves, and preferably it comes with one baking tray.",221,52
+R1000,I'm looking for an oven that includes a dedicated pizza tray and does not have Wi‑Fi connectivity.,147,38
+R1002,"I'm looking for an energy-efficient oven in energy class A with a stainless steel exterior and metal control panel, featuring a stainless steel handle and US-type power plug; I'd prefer it come with one baking tray.",222,59
+R1018,I'm looking for a 60 cm oven with energy class A that has a turnspit and supports a double grill with fan as well as a double grill with turnspit.,213,54
+R1020,I'm looking for a convection oven with retractable knobs and no wire shelf; it should include a Bottom cooking function and offer HydroClean as a cleaning option.,208,49
+R1021,"I'm looking for a black oven that has turbo cooking, includes 3D cooking capability, has exactly ten functions in total, and comes without telescopic rails.",208,50
+R1023,"I'm looking for an oven that definitely has top, bottom and fan heating, and that comes without any baking tray; I'd prefer one that offers eight functions in total, includes a combined double grill with fan and a turnspit, has a fan with ring function, and comes with one roasting tray.",239,78
+R1028,"I need an oven that has top and bottom heating, includes grill with fan and a defrost setting, comes with one wire shelf, and uses rotary knobs; a digital timer would be a nice addition.",227,59
+R1029,I'm looking for an oven that definitely includes both a grill function and a fan-forced cooking mode; ideally it would be a convection oven.,153,46
+R1030,"I'm looking for an oven that has both a grill and a turnspit function, and preferably with an A+ energy rating.",153,44
+R1032,"I'm looking for an oven that includes pyrolysis self-cleaning and a double grill function, and it must have exactly one telescopic rail.",176,46
+R1035,I'm looking for a black oven that definitely has both grill and fan cooking functions.,150,34
+R1037,"I'm looking for an oven that has top and bottom heating as well as a fan setting, includes an oven light, and features silver knobs.",193,46
+R1040,"I'm looking for an oven that includes both a fan-and-ring cooking function and a defrost setting, offers HydroClean self-cleaning, and preferably has white knobs and an EU-type power plug.",226,57
+R1042,"I'm looking for a convection oven with K5 knobs that includes HydroClean, Bottom heating, and 3D cooking — I prefer it to have no wire shelf but that's optional.",226,54
+R1046,I'm looking for a new built-in oven that includes a pyrolysis self-cleaning function and offers a total of 8 different cooking functions.,153,46
+R1047,"I'm looking for an oven that includes bottom with fan, top heating, and a combined top+bottom+fan function, has exactly five cooking functions in total, does not come with a pizza tray, and features an easy-to-clean (ETC) cleaning system.",226,71
+R1049,"I'm looking for an oven that definitely includes a bottom heating element plus a fan, with an easy-to-clean/chemical-free cleaning system; I'd prefer one with an H5-style handle and two roasting trays if possible.",185,61
+R1052,I'm looking for a stainless steel oven (no Wi‑Fi) that includes a grill and a fan—ideally with both functions available.,168,46
+R1053,"I'm looking for an oven with a rotary knob design that includes double grill with fan and a turnspit, also supports pyrolysis self-cleaning, and offers a grill plus turnspit mode.",200,58
+R1055,"I'm looking for an oven with a black handle that has an internal light, top, bottom and fan cooking modes, and preferably a steam function as well.",189,49
+R1056,"I'm looking for a silver steam oven, preferably one that includes a steam cooking function.",166,35
+R1060,"I'm looking for a 60 cm oven that definitely includes Turbo, Bottom, and 3D cooking functions; I would prefer it to be a convection model and I don't want a rotisserie/spit feature.",223,60
+R1062,"I'm looking for a built-in oven that includes a grill and a fan function, does not have a rotisserie or turnspit, and preferably has an A+ energy rating.",168,54
+R1067,"I'm looking for a countertop or built-in oven that has an interior light, uses a US-type power plug, and does not include a pizza tray.",171,48
+R1070,"I'm looking for an oven that definitely has a grill and pyrolysis self-cleaning, ideally also includes a defrost setting, and that comes with exactly two telescopic rails and two wire shelves.",212,57
+R1076,"I'm looking for an oven with a glass control panel and built-in HydroClean self-cleaning, and it would be great if it also has an oven light.",169,50
+R1078,"I'm looking for an oven with A energy efficiency and that offers top heating, bottom heating, and a combined top-and-bottom cooking function.",186,45
+R1080,I'm looking for a white oven that includes both a defrost setting and a pyrolysis self-cleaning function.,169,40
+R1081,"I'm looking for a silver oven that features HydroClean and a turbo cooking mode, preferably with a stainless-steel knob finish and the H5-style handle.",205,49
+R1087,I'm looking for a convection oven that definitely has a bottom heating function and ideally also supports 3D heating for more even results.,171,44
+R1089,"I'm looking for an oven that can defrost foods, and it must have a pyrolysis self-cleaning cycle; if possible, I'd also like it to include pyrolysis cleaning and come with two roasting trays.",192,60
+R1096,"I'm looking for a 60 cm built-in oven that includes an oven light, a bottom-heating plus fan setting, and a defrost function.",189,48
+R1104,"I'm looking for an oven that includes both grill with fan and top-and-bottom heating functions, and it must come with exactly two baking trays.",174,46
+R1107,"I'm looking for a built-in oven that includes both a fan with ring function and a double grill with fan, has K1-style knobs, and does not come with a pizza tray; pyrolytic self-cleaning would be a nice-to-have.",212,68
+R1108,"I'm looking for a dark silver oven that has bottom heat, top-and-bottom heating, and preferably a convection option as well.",206,43
+R1117,"I'm looking for an oven that definitely has a double grill with fan and a turnspit, includes grill plus turnspit functionality, has an H2-style handle, and must come with K2 knobs; if possible I'd prefer a metal control panel.",212,69
+R1118,I'm looking for a built-in oven that has pyrolytic self-cleaning and includes a grill with a turnspit/rotisserie function; I would prefer it to be energy class A.,172,57
+R1120,"I'm looking for an oven packaged in a box that includes fan+ring, pyrolysis self‑cleaning and a defrost setting, ideally with about eight functions in total and two baking trays.",227,57
+R1121,"I'm looking for a 60cm oven with a K1-style knob, it must have a pizza cooking function and preferably also a double grill with fan.",188,49
+R1126,"I'm looking for an oven that includes Grill, Grill with Fan, and Top+Bottom heating with Fan; it should come packaged in a box, and I’d prefer it to have two telescopic rails.",212,59
+R1127,"I'm looking for a convection oven with top cooking functions, a fixed knob style K1, and no rotisserie option.",185,42
+R1129,"I'm looking for an oven that includes 3D cooking, a grill with fan, and a turbo function; it must come with exactly one wire shelf, no roasting tray, and preferably a stainless steel control panel.",231,61
+R1131,I'm looking for a built-in oven that offers both top and bottom heating elements and does not have Wi‑Fi connectivity.,149,42
+R1134,I'm looking for a convection oven that definitely has a turbo function for faster cooking.,152,34
+R1137,"I'm looking for an oven that has a grill function, comes with a black handle, and uses a US-type power plug.",167,43
+R1138,"I'm looking for a built-in oven that has both a grill and a double-grill function, features K1-style knobs, definitely does not include a rotisserie/turn-spit, and must offer pyrolysis self-cleaning.",206,64
+R1143,I'm looking for a silver convection oven that definitely has pyrolytic self-cleaning and preferably includes a double grill with a turnspit.,193,46
+R1149,"I'm looking for an oven that definitely has a grill function, comes with two wire shelves and one baking tray, and ideally offers around eight cooking functions.",189,48
+R1150,"I'm looking for an oven that includes both top and bottom cooking functions, and it must have a single telescopic rail.",172,42
+R1151,"I'm looking for an oven that includes pyrolytic self-cleaning, a defrost setting, and a grilling function, and I need it shipped in a box.",188,51
+R1152,I'm looking for an energy class A oven that includes both a grill and a turnspit function and also offers pyrolysis; having a turnspit is preferred and I'd like pyrolysis cleaning if possible.,208,59
+R1156,"I'm looking for an oven that has the double grill feature, comes with one wire shelf, requires the K5-style knobs, and should be supplied without a power cable.",190,52
+R1159,"I'm looking for an oven that includes pyrolytic self-cleaning and a double grill function, uses a US-type power plug, and is rated energy class A; ideally it would come packaged with shrink wrap.",206,60
+R1162,I'm looking for an oven that has a pyrolysis self-cleaning function and is energy class A; I’d prefer it to have black knobs and be 60 cm wide if possible.,182,55
+R1163,"I'm looking for a convection oven (about 60 cm wide preferred) that definitely includes top and bottom heating, a grill function and a pyrolysis self-cleaning cycle, and comes with an H4-style handle.",223,61
+R1165,"I'm looking for an oven that has an interior light and a bottom-with-fan cooking mode, and it must not have a rotisserie/spit feature.",171,49
+R1166,"I'm looking for a 60 cm oven that has two telescopic rails, features a double grill with a turnspit function, and includes an oven light; having both top and bottom heating would be a plus.",215,61
+R1167,"I'm looking for an A+ energy oven that includes a fan and ring heating function, and preferably comes with two wire shelves.",170,43
+R1169,"I'm looking for a 60 cm wide oven with catalytic self-cleaning that definitely has a turnspit, and I'd prefer it to include both double-grill with fan and a grill with turnspit.",214,60
+R1171,"I'm looking for a steam oven with top, bottom and fan cooking plus an interior light; I don't need a roasting tray, and please ship it in a box.",209,51
+R1172,"I'm looking for a white oven with a 65‑liter capacity, equipped with top, bottom, and fan cooking functions, and supplied with a US‑type power plug.",225,53
+R1177,"I'm looking for an oven that comes boxed, has a metal front panel, includes a bottom+fan cooking function, and does not include a timer.",186,48
+R1184,"I'm looking for an oven that has a top heating element and a combined top-and-bottom cooking function (having a bottom-only option would be a nice extra), and it should offer an easy-to-clean (self-clean) option.",186,63
+R1186,I'm looking for a black oven that comes with a top cooking function and includes two baking trays.,167,37
+R1190,"I'm looking for an A-rated oven that includes both grill with turnspit and double grill with turnspit, and ideally also offers a double grill plus fan with turnspit.",202,55
+R1196,"I'm looking for an oven that has Double Grill capability and includes both a grill and fan function, with an easy-clean/other cleaning system, and preferably an A+ energy rating and Wi‑Fi connectivity.",200,59
+R1197,"I'm looking for an oven that includes top, bottom and fan heating options, and it must not have a rotisserie spit.",154,43
+R1200,I'm looking for an oven that has 3D cooking functionality and definitely comes with a pizza tray.,153,38
+R1203,"I'm looking for an oven that has pyrolytic self-cleaning and a grill function, comes with one roasting tray, features a digital timer, and must have silver knobs.",206,53
+R1206,"I'm looking for a convection oven energy class A that definitely has a defrost function and a double grill, and I'd prefer it to also include a double grill with fan capability and have an H5-style handle.",225,60
+R1208,I'm looking for a convection oven with a silver knob; preferably it would include a double grill and a turnspit feature.,174,43
+R1210,"I'm looking for a Wi‑Fi enabled oven that includes a steam cooking function, with a black finish on the control knobs and the H5 style handle.",179,49
+R1211,"I'm looking for a 70 cm wide oven that definitely includes both a bottom+fan function and a defrost setting; I would also prefer it to have top+bottom heating, about eight functions total, and no telescopic rails.",229,65
+R1216,I'm looking for a convection oven that ideally has a pizza setting and also includes a fan + ring heating function.,171,40
+R1218,"I'm looking for an oven that definitely offers top, bottom and fan cooking together, and if possible also includes a grill; I'd prefer one with an easy-clean/eco-clean option and a digital timer control.",187,59
+R1219,I'm looking for an oven with three functions that definitely includes both top+bottom heat and also offers a top heating option; it should have an H2-style handle.,187,51
+R1225,"I'm looking for a 90 cm oven that must have Grill and Fan+Ring functions, preferably also a Double Grill, with two wire shelves and no baking tray.",227,51
+R1226,"I'm looking for an oven that includes HydroClean and a Pizza function, preferably also offering 3D cooking, with a fixed H4-style handle, packed in a box.",221,53
+R1227,"I'm looking for a stainless steel oven with an H5-style handle and a grill function, please.",168,38
+R1229,"I'm looking for a steam oven that includes HydroClean, offers pizza and top-and-bottom cooking functions, and preferably comes with one roasting tray.",208,46
+R1231,"I'm looking for an oven with a stainless steel handle, an electronic touch timer, and a total of 11 functions; it should include HydroClean, an oven light, and a pizza setting.",228,57
+R1236,I'm looking for a 90 cm wide oven that definitely has a top heating function and preferably includes a bottom element with fan assistance.,169,44
+R1237,"I'm looking for a built-in oven that has pyrolysis self-cleaning and a defrost function, offers both top and bottom heating elements, and ideally comes with silver control knobs.",210,54
+R1240,"I'm looking for an oven that includes defrosting and also has grill with a turnspit option; it must have a digital timer, and preferably comes with two telescopic rails.",194,55
+R1244,"I'm looking for an oven that definitely has Turbo and HydroClean functions, preferably includes a double grill with fan, comes with one wire shelf, and has a silver handle.",210,52
+R1245,I'm looking for an oven that definitely includes both grill and fan cooking functions; preferably it would be around 75 liters and ideally without a rotisserie spit.,170,49
+R1246,"I'm looking for an oven that has both a top heating function and top-and-bottom heating, and it must come with a K1-style knob.",170,47
+R1247,I'm looking for a built-in oven that definitely has a Fan+Ring function and comes with one roasting tray; I'd also prefer it to include HydroClean self-cleaning and have a stainless steel handle.,210,58
+R1249,"I'm looking for an oven that has a top heating function, comes with two telescopic rails, and preferably features an easy-clean/pyrolytic-type cleaning option.",169,52
+R1253,"I'm looking for an oven with pyrolytic self-cleaning, a silver handle, and preferably features that include top, bottom and fan cooking as well as a double grill with fan and a turnspit; having silver knobs would be a plus.",216,68
+R1254,I'm looking for a glass-front oven that has an interior light and does not have Wi‑Fi.,164,38
+R1255,"I'm looking for an oven with pyrolytic self-cleaning, exactly eight functions, and a handle type H5; if possible I'd also like it to include double grill with fan and a turnspit.",195,60
+R1259,"I'm looking for an oven that definitely has a grill and a grill+fan function, and preferably also offers top+bottom+fan cooking, with K5-style knobs and no timer control.",211,56
+R1269,"I'm looking for a stainless steel oven that has a digital timer, includes a defrost function, and comes with a single telescopic rail.",191,46
+R1270,"I'm looking for a convection oven that includes Turbo, HydroClean, and an oven light, offers a pizza tray, and has exactly 11 functions.",226,48
+R1274,"I'm looking for a stainless steel oven that definitely has a top cooking function, and preferably also includes a bottom cooking function; I'd like it to come with one roasting tray and, if possible, two baking trays.",208,60
+R1275,"I'm looking for a white oven with black knobs that definitely includes a top heating function, and it must not have Wi‑Fi.",178,44
+R1276,"I'm looking for an oven that offers pyrolysis self-cleaning, has a 75-liter capacity, and provides a total of eight functions.",171,46
+R1278,"I'm looking for an oven that has a defrost setting and a double grill with fan, includes no baking tray, preferably comes with one wire shelf, and has stainless steel knobs.",214,54
+R1279,"I'm looking for a built-in oven that includes a pyrolysis self-clean cycle; ideally it would also have the K5-style control knob, but that's not essential.",152,51
+R1282,"I'm looking for an oven that includes HydroClean for easy maintenance and preferably also offers a steam cooking function; I'd like it to have the H2-style handle and, if possible, no wire shelf included.",187,59
+R1287,"I'm looking for an oven that includes a bottom-plus-fan cooking function, has a metal control panel, and comes with exactly two roasting trays.",170,47
+R1288,I'm looking for a convection oven with energy class A that includes a bottom heating plus fan function and has a turnspit.,185,43
+R1291,"I'm looking for a 60 cm oven that definitely includes a grill and a turnspit, and ideally would also offer a double grill with a fan and a turnspit.",179,54
+R1292,"I'm looking for a convection oven that definitely has a double grill feature and includes a fan plus ring heating function, and I do not want a rotisserie/turnspit.",190,53
+R1293,"I'm looking for a convection oven that has top and bottom heating and a fan, includes a double grill function and a fan+ring mode, and features retractable knobs; I would prefer one without a pizza tray if possible.",232,63
+R1297,"I'm looking for an oven that includes both a double grill with fan and turnspit capabilities, as well as top, bottom and fan heating functions; it should have two telescopic rails, and please ensure it's shipped with shrink wrap packaging.",201,66
+R1299,I'm looking for a silver-colored oven about 70 cm wide that includes a grill and a rotisserie/turnspit — please ensure the silver finish is exact.,170,51
+R1301,"I'm looking for a metal-front oven (no Wi‑Fi) that includes top heating, bottom heating, and a combined top-and-bottom setting.",201,47
+R1302,"I'm looking for an oven that definitely has a grill with fan functionality and also includes a regular grill option, and it must have a silver handle.",169,47
+R1304,I'm looking for a convection oven that has a grill function and comes with one baking tray; it would be great if it also includes a defrost feature and has a white handle.,204,54
+R1305,"I'm looking for an oven that includes 3D cooking, a double grill, and a grill with fan, preferably with K1-style knobs and packaged in shrink wrap.",209,52
+R1306,"I'm looking for an oven with a glass control panel that includes pyrolytic self-cleaning and, if possible, a defrost function.",170,46
+R1309,"I'm looking for an oven that definitely has a bottom heat plus fan setting, preferably also a top-heat function, with a 75-liter capacity and a glass front panel.",187,53
+R1311,"I'm looking for an oven that includes a grill function, with a fixed handle style H2 and no rotisserie turnspit.",166,44
+R1313,I'm looking for a built-in oven that has a pyrolytic self-cleaning function and does not include a pizza tray.,153,43
+R1314,"I'm looking for a built-in oven that definitely includes both top and bottom heating as well as a fan-assisted mode, and it must not have Wi‑Fi; preferably the control panel would be black.",184,58
+R1317,I'm looking for an oven that includes a bottom heating function and also has an interior light; ideally it should offer around 11 different cooking functions.,170,47
+R1324,"I'm looking for an oven that definitely has a grill with fan, and also includes top-and-bottom heating (both with and without the fan), has no telescopic rails, and preferably comes without a baking tray.",217,60
+R1329,"I'm looking for an oven that definitely includes a defrost function and comes packaged in a box, with a self-cleaning option; I'd prefer it to also feature grill with fan and top-and-bottom heating, and have black knobs.",221,64
+R1334,"I'm looking for a built-in oven that has two telescopic rails and includes a double grill, fan-assisted cooking, and a rotisserie/turnspit option.",162,51
+R1338,I'm looking for an oven with a 75-liter capacity that includes pyrolytic self-cleaning and a defrost function.,172,43
+R1348,I'm looking for an oven that includes pyrolysis self-cleaning and has both a grill and a double-grill function.,192,42
+R1352,"I'm looking for an oven that includes a double grill feature, has no telescopic rails, and definitely has a digital timer control.",173,44
+R1354,"I'm looking for a convection oven that definitely has a defrost setting, preferably includes a pyrolysis self-clean option, must come without any wire shelves, and ideally includes one baking tray.",210,55
+R1357,"I'm looking for an oven that has grill function and an internal light, includes both top and bottom heating, comes with a black handle of type H1, and ideally uses a UK plug.",222,56
+R1358,"I'm looking for an oven that includes both top and bottom heating and also offers bottom-only and top-only cooking modes, comes packaged in shrink wrap, and does not include a wire shelf.",207,55
+R1360,"I'm looking for a stainless steel oven with a black handle, and it should include a grill plus fan function.",169,40
+R1365,"I'm looking for a built-in oven that has HydroClean and a Steam cooking option, an energy rating of A++, exactly one telescopic rail, and ideally about 11 cooking functions.",207,55
+R1372,"I'm looking for a built-in oven that has a turbo/convection cooking function, definitely with an easy-to-use self-cleaning feature, and ideally comes with a pizza tray.",167,53
+R1373,"I'm looking for an oven that has a grill function, uses the K5-style knobs, and offers five different cooking functions; a model without a roasting tray would be preferred.",187,53
+R1374,"I'm looking for a silver oven that must include a defrost function and, if possible, also offer a turbo cooking mode.",170,43
+R1378,"I'm looking for an oven that has both a bottom heat with fan function and a double grill with fan and turnspit feature, must have the H3-style handle, preferably in black, and if possible supplied without a power plug.",211,65
+R1380,"I'm looking for an oven that definitely has both a top heating element and a bottom heating element, and also includes a combined top-and-bottom cooking mode; it should use K2-style knobs, and I would prefer it not to have Wi‑Fi.",202,68
+R1384,"I'm looking for an oven that includes double grill, fan-assisted cooking and a rotisserie/turnspit function, and it must come without any baking trays.",160,50
+R1387,I'm looking for a convection oven (energy class A+) that includes both top and bottom heating functions; a roasting tray isn't necessary.,204,44
+R1388,"I'm looking for a convection oven that definitely includes Double Grill, Top and Bottom heating, and a Double Grill with fan function.",195,43
+R1389,"I'm looking for an oven that has both top and bottom heating plus a fan with ring element; I'd prefer one that also includes a grill with a turnspit, has black handles, and — if possible — K3-style knobs.",209,65
+R1391,"I'm looking for a black oven (knobs must be black) that includes a double grill function, please.",151,40
+R1392,I'm looking for a built-in oven that has a pyrolytic self-clean function and includes both a double grill and a rotisserie/turnspit feature. I would prefer it not to come with a pizza tray and would also rather it doesn't have Wi‑Fi.,191,72
+R1393,I'm looking for a 75-liter oven with a black finish and a function that includes a fan plus ring heating.,169,41
+R1394,"I'm looking for an oven that definitely has top and bottom heating with a fan, includes both a grill with fan and top+bottom+fan cooking modes, uses the ETC cleaning system, comes without any wire shelves, and preferably has the H4 style handle.",207,70
+R1395,"I'm looking for an oven that definitely has a Pizza function, and preferably includes Double Grill with fan and 3D cooking modes; please ship it in shrink-wrapped packaging.",192,53
+R1396,I'm looking for an oven that definitely has a double grill feature and would preferably include a pyrolysis self-cleaning function; I'd like it to be energy class A+ and packaged with shrink wrap.,188,57
+R1397,"I'm looking for an oven with a glass control panel that includes pyrolytic self-cleaning, a grill function, and a fan-with-circular-heating element (fan + ring) to ensure even cooking.",189,60
+R1399,I'm looking for a convection oven that includes turbo and grill functions and comes with two roasting trays; having 3D cooking would be a plus.,209,47
+R1401,I'm looking for a dark silver oven that includes a turbo function; ideally it would have a 65-liter capacity and about 10 cooking functions.,187,47
+R1402,"I'm looking for an oven that has a bottom heating function and ideally also offers a top heating option, and it should not have a rotisserie spit.",168,48
+R1403,"I'm looking for an oven that definitely includes a double grill and a turnspit feature, with K2-style knobs, and preferably comes with two wire shelves.",175,50
+R1405,I'm looking for a convection oven with a glass control panel that includes a bottom cooking function and offers three different functions in total.,185,43
+R1407,"I'm looking for a boxed oven with an H2-style handle; it should have an EU-type power plug, and ideally include a double-grill function.",186,49
+R1409,"I'm looking for an oven that includes Grill with Turnspit and also DoubleGrill with Fan plus Turnspit; please ship it without a plug on the power cable if possible, and make sure it's packaged in shrink wrap.",199,64
+R1411,I'm looking for a 60 cm built-in oven with rotary knobs that offers a double grill and a double-grill plus fan function; I'd also prefer one that includes a defrost setting.,226,56
+R1412,"I'm looking for an oven that offers both top and bottom heating, has exactly one baking tray, does not include a pizza tray if possible, and must have an H4-style handle.",188,55
+R1414,"I'm looking for a built-in oven that definitely has both fan and ring cooking functions and comes without telescopic rails; if possible I'd prefer it to have HydroClean self-cleaning, be packaged in a box, and feature black handles.",206,65
+R1416,"I'm looking for an oven that has an internal light, both top and bottom heating elements, and ideally also a bottom heating mode with a fan; it should be supplied without a power plug attached.",193,57
+R1417,"I'm looking for a new built-in oven that includes pyrolysis self-cleaning and a grill function, has exactly eight cooking functions, does not come with a pizza tray, and preferably features a digital timer.",206,59
+R1418,"I'm looking for an oven that has turbo cooking and includes top, bottom and fan heating (and preferably a separate bottom-only mode), has K1-style knobs, supports Wi‑Fi if possible, and comes without any roasting tray.",224,64
+R1419,"I'm looking for a built-in oven that includes pyrolytic self-cleaning, with black knobs and a black handle; I’d prefer one without a timer if possible.",185,52
+R1423,"I'm looking for an oven that has both top and bottom heating as well as top+bottom+fan capability, includes a double grill, features stainless steel knobs, does not come with a pizza tray, and preferably is energy class A.",230,65
+R1425,"I'm looking for an oven that includes DoubleGrill and DoubleGrill+Fan functions, has a Defrost setting, comes with two baking trays, and preferably arrives packaged in a box.",211,56
+R1429,"I'm looking for a new oven that includes a grill function and also offers a bottom-heating option, and I'd prefer models with retractable knobs.",170,47
+R1430,I'm looking for a 45 cm oven that includes a grill function; I'd prefer it to come with easy cleaning (ETC) and be delivered in a box.,180,51
+R1431,"I'm looking for an oven that has top heating, bottom heating, and a bottom+fan setting, and ideally also offers a combined top+bottom+fan mode; it must feature catalytic self-cleaning.",193,59
+R1433,"I'm looking for an oven that can defrost food, preferably with a silver handle, without Wi‑Fi, and supplied without a plug on the power cable.",183,50
+R1437,"I'm looking for a built-in oven that includes a pyrolysis self-clean function, comes with a handle in the H3 style, has energy rating A, and does not include a pizza tray.",184,57
+R1443,"I'm looking for an oven that has a fan + ring cooking mode, includes pyrolytic self-cleaning and a double grill function, does not have a rotisserie, and comes with two baking trays.",211,59
+R1444,"I'm looking for a convection oven that must include both a fan-and-ring heating function and a defrost setting, with no baking tray and two wire shelves.",210,49
+R1445,"I'm looking for a convection oven that has top, bottom and fan heating functions, comes with an EU-type power plug, and includes two wire shelves.",193,48
+R1446,"I'm looking for an oven that includes both a double grill with fan and a fan with ring function, features pyrolytic self-cleaning, comes with one roasting tray, and preferably has the H4 style handle.",212,61
+R1450,I'm looking for a 60 cm oven without a timer and supplied without a power cable; it must include a defrost function and preferably has bottom with fan cooking and an oven light.,227,55
+R1451,I'm looking for a convection oven that includes a pyrolysis self-clean function and comes with exactly two roasting trays.,172,40
+R1452,"I'm looking for a steam oven that includes HydroClean and a DoubleGrill, preferably with a Pizza function, and ideally with K1-style knobs; I don't need a baking tray included.",225,56
+R1457,"I'm looking for an oven that includes HydroClean self-cleaning, offers Double Grill with fan and top-and-bottom heating as preferred features, and that comes without any wire shelves.",195,53
+R1461,"I'm looking for a convection oven that definitely has top and bottom heating with a fan, and must include grill plus turnspit; I would also prefer if it offers a double grill with fan and turnspit, comes with two wire shelves, and has a silver handle.",238,73
+R1462,"I'm looking for a black oven with a digital timer and pyrolytic self-cleaning, equipped with one baking tray; it would be great if it also includes a grill with a turnspit option.",208,59
+R1464,"I'm looking for a 90 cm oven that definitely has top and bottom heating and a defrost setting; I'd also prefer one that includes bottom+fan cooking, comes without a roasting tray, and uses the K3-style control knobs.",226,65
+R1466,"I'm looking for a 60 cm wide oven with a 65-liter capacity that definitely has both top and bottom heating, and ideally comes with one wire shelf.",188,50
+R1467,"I'm looking for a black-knotched oven that definitely includes top+bottom with fan, a double grill with fan, and double grill functions, rated A+, and preferably comes with a US-type power plug.",230,60
+R1470,"I'm looking for an oven that has a bottom heating function, ideally with a turbo setting as well. It should come with four knobs in a silver finish, and if possible be supplied without a power cable.",205,59
+R1472,"I'm looking for an oven that includes top, bottom and fan cooking modes, has a US-type power plug, does not come with a pizza tray, and preferably includes two roasting trays.",193,55
+R1473,"I'm looking for an oven that has double grill with fan, includes a pyrolysis self-cleaning cycle, uses K4-style knobs, has pyrolysis cleaning, and does not have Wi‑Fi.",207,58
+R1474,"I'm looking for an oven with a metal control panel that includes both top-and-bottom heating and a double grill with a turnspit, and ideally comes with a UK-type power plug; the mandatory features are the metal panel, the top+bottom and double grill with turnspit functions, while the UK plug is preferred.",214,83
+R1476,"I'm looking for a 60 cm built-in oven, stainless steel finish preferred, energy rating A+ required, and it should include a grill function.",184,48
+R1480,"I'm looking for an oven that definitely has top heating and also includes a bottom with fan function, and preferably also a bottom-only heating option; I would like it to come in a box, ideally with one roasting tray included, and with a digital timer control.",223,70
+R1482,I'm looking for a 65-liter silver oven with retractable knobs that offers steam cooking and also includes top-and-bottom heating and a HydroClean self-cleaning feature.,225,51
+R1483,"I'm looking for an oven with a glass control panel, equipped with a double grill and a defrost function, and it must include a single roasting tray and Hydrocool/Hydroclean self-cleaning.",207,59
+R1488,"I'm looking for an oven that definitely includes a grill and a turnspit, and ideally has a total of 8 cooking functions.",155,45
+R1489,"I'm looking for an oven that definitely has a fan+ring cooking mode and comes with a US-type power plug; I'd prefer one that also offers pyrolysis self-cleaning, is rated A+ for energy efficiency, and includes one baking tray.",209,67
+R1491,"I'm looking for an oven that definitely has a bottom heating element with fan assistance, and would preferably also include a double grill with fan; it should come with a US-type power plug and ideally include one baking tray.",195,61
+R1494,"I'm looking for an oven that includes top, bottom and fan cooking, also double grill with a turnspit and the combination of double grill plus fan plus turnspit; it should have eight functions in total, come with two telescopic rails and include two roasting trays.",245,73
+R1501,"I'm looking for an oven that has both a grill with fan-assisted cooking and a turbo function, and it must not include a rotisserie/turnspit.",171,50
+R1504,I'm looking for an oven that definitely has a pyrolytic self-cleaning cycle and includes a fan+ring convection mode; I’d also prefer one that offers top-and-bottom heating and has an A+ energy rating.,191,62
+R1506,"I'm looking for an oven about 65 liters in capacity that includes a double grill, fan-assisted cooking and a turnspit, and also offers a pyrolysis self-cleaning function. It must come without telescopic rails.",200,63
+R1510,"I'm looking for a built-in oven in a box with rotary knobs; it must have a bottom heating element with fan assistance, and I'd prefer one that also includes a double grill function and a defrost setting — stainless steel front would be ideal.",226,67
+R1511,"I'm looking for an oven that includes a double grill function, preferably also offers a bottom heating option, comes without any wire shelves, and must be delivered in a box.",188,52
+R1512,"I'm looking for an oven that includes HydroClean self-cleaning, with white rotary knobs and a white handle — the white colors are essential, while the HydroClean function and rotary-style knobs are preferred.",182,58
+R1516,"I'm looking for an oven with a 50-liter capacity and K3-style knobs that has HydroClean cleaning, includes the Pizza function and also features a Double Grill with fan (the grill+fan feature is preferred but not essential).",227,64
+R1518,"I'm looking for an oven that definitely includes double grill with fan and a turnspit, and also offers top, bottom and fan heating. It should come packaged in a box and have two telescopic rails.",200,60
+R1519,I'm looking for a convection oven with a digital timer that includes a grill function; if possible I'd like one with a black handle.,183,44
+R1520,"I'm looking for a convection oven that definitely has grill with a turnspit and a double grill plus a turnspit, and if possible also offers a fan with ring heating.",199,54
+R1521,"I'm looking for a new oven that has a pizza cooking function, comes in energy class A++, and preferably is delivered in a box.",165,45
+R1522,"I'm looking for a 65-liter oven that includes a pyrolysis self-cleaning function, and preferably comes with a UK-type power plug.",172,46
+R1524,"I'm looking for an oven that has top, bottom and fan cooking plus pyrolysis self-cleaning as essential features, and preferably also offers a double grill with fan, and I would rather not have a pizza tray included.",197,62
+R1526,"I'm looking for an oven that has both a grill and a turnspit function, definitely includes a turnspit, comes with two baking trays, and does not have a pizza tray.",191,56
+R1527,"I'm looking for an oven that definitely has top, bottom and fan cooking, includes a fan+ring setting, offers eight functions in total, does not come with a pizza tray, and preferably has silver knobs.",210,60
+R1533,"I'm looking for an oven that includes pyrolytic self-cleaning, has an H5-style handle, does not come with a pizza tray, and includes exactly one baking tray.",188,54
+R1534,"I'm looking for a built-in oven that includes grill, pyrolysis self-cleaning and top-and-bottom heating, offers exactly 8 functions in total, and preferably comes without a roasting tray.",210,56
+R1540,"I'm looking for an oven that includes Turbo, Double Grill with fan, and Grill with fan functions, has no telescopic rails, and comes without a power plug.",216,51
+R1542,"I'm looking for an oven with an A+ energy rating and a stainless steel handle; it should also include a pizza function and, if possible, offer 11 different cooking functions.",186,54
+R1544,"I'm looking for a built-in oven that definitely does not come with a pizza tray, preferably with a metal control panel, and it must include a grill function.",167,50
+R1545,"I'm looking for an oven that has top, bottom and fan cooking functions, comes with one roasting tray, preferably with white control knobs and ideally fitted with a single telescopic rail.",193,54
+R1546,I'm looking for an oven that has both top and bottom heating elements and a combined top+bottom function; it must not include a pizza tray and should come with no roasting tray.,208,54
+R1553,"I'm looking for an oven that definitely includes a double grill, a fan, and a rotisserie/spit function, and it must not come with a pizza tray.",159,51
+R1556,"I'm looking for an oven with a glass front and a rotary knob control; it must include a pizza cooking mode and should also have bottom heating and a grill function, and I’d prefer an easy-clean/other cleaning option.",217,63
+R1557,"I'm looking for an oven that has top, bottom and fan heating together, as well as the ability to use just top and bottom and also bottom with fan; it must come with one roasting tray and a UK type plug, and ideally have an easy-clean/pyrolytic-style cleaning option.",230,78
+R1559,"I'm looking for a built-in oven that has both top and bottom heating elements, with K2-style control knobs; I'd prefer a model with black handles and shrink-wrapped packaging if possible.",200,56
+R1561,"I'm looking for a convection oven with top and bottom heating plus a combined top-and-bottom mode, and it must have a K2-style knob.",206,47
+R1562,"I’m looking for an oven that definitely has both grill and fan functions, comes with a H1-style handle, and ideally offers about 11 different cooking functions.",169,51
+R1565,"I'm looking for an oven that includes a top heating function, comes packaged in a box, has two baking trays, and preferably with black knobs.",184,47
+R1570,"I'm looking for a new oven that includes HydroClean cleaning, comes with one baking tray, and has an A++ energy rating; I would prefer it not to have a wire shelf.",188,55
+R1571,"I'm looking for an oven that can defrost, also includes top, bottom and fan cooking together, comes with exactly one wire shelf, and ideally has a 65 L capacity and a pyrolysis self-cleaning option.",213,62
+R1573,I'm looking for a compact oven around 45 cm wide that must have bottom+fan cooking and must not include telescopic rails; I'd also prefer models that offer top and bottom heating separately and that have K4-style knobs.,225,63
+R1574,"I'm looking for an oven that definitely includes both a grill and a grill with fan, with stainless steel knobs, and preferably also offers top-and-bottom heating and a black handle.",208,53
+R1575,I'm looking for a 50-liter convection oven with a glass control panel; ideally it should include HydroClean for easy cleaning.,186,43
+R1577,"I'm looking for an oven that includes 3D cooking capabilities, definitely has a bottom heat function, does not have a turnspit, and comes without a baking tray.",189,53
+R1581,I'm looking for a 60 cm wide oven that definitely has an interior light and includes both a grill and a turnspit; I’d prefer a model with a silver handle and that supports a turnspit.,205,61
+R1583,"I'm looking for an oven that has top and bottom heating, includes HydroClean self-cleaning, and features an electronic touch timer; I'd prefer if it also offers a turbo cooking mode and comes packaged with shrink wrap.",228,61
+R1586,"I'm looking for an oven that has both a double grill function and an oven light, ideally also including a regular grill, with retractable knobs and no roasting tray.",210,51
+R1587,"I'm looking for a convection oven in stainless steel that has bottom heating with a fan (this is essential), and preferably also offers top+bottom+fan and a double grill with fan.",216,55
+R1589,"I'm looking for an oven that includes HydroClean self-cleaning and would preferably have a pizza mode, and it must have a rotary knob control.",169,47
+R1591,"I'm looking for an oven that includes steam cooking and also has a fan with a ring element, and ideally comes with one roasting tray.",172,45
+R1592,"I'm looking for an oven that comes packed in a box and that includes pyrolytic self-cleaning, a double grill function, and a regular grill — these extra grilling and pyrolysis features are preferred but not strictly required.",189,63
+R1593,I'm looking for an oven that includes a bottom heating function and comes with exactly two wire shelves.,152,37
+R1595,"I'm looking for an oven that has a top heating function and also offers bottom heating with a fan, and please ensure it's packaged with shrink wrap.",170,47
+R1597,"I'm looking for an oven that definitely has a double grill and an oven light, preferably includes a bottom heat with fan function, comes without a pizza tray, and if possible is packaged with shrink wrap.",209,58
+R1598,"I'm looking for a 90 cm wide oven with five functions that definitely includes both a grill and a grill+fan setting, and I’d prefer one with an easy-clean option like catalytic or similar.",202,58
+R1601,"I'm looking for an oven that includes both a double grill with fan-assisted cooking and a bottom heating element with fan-assisted circulation, and it must have two telescopic rails.",178,52
+R1605,"I'm looking for a compact oven with grill and a double grill with fan function, equipped with K4-style knobs and no Wi‑Fi; an internal light would be nice and I don't need a baking tray included.",224,61
+R1609,"I'm looking for an oven that includes an oven light and a double grill, has a single set of telescopic rails, does not have a turnspit, and preferably comes without a roasting tray.",211,58
+R1610,"I'm looking for an oven that includes an oven light and, if possible, features both a double grill and a turnspit, and that comes with a UK-type plug.",177,53
+R1615,I'm looking for a 75‑liter oven that includes an oven light; ideally it would be energy class A+ and come with a UK type plug.,187,49
+R1617,I'm looking for an oven with a black control knob and a function that includes a fan plus ring heating option.,151,40
+R1619,"I'm looking for an oven that includes a bottom heat setting and HydroClean self-cleaning, ideally with a Turbo function as well; it must come with one roasting tray and preferably one baking tray.",209,57
+R1620,"I'm looking for an oven that definitely has a double grill with a fan, and I'd prefer it to also include a regular grill. I don't want a rotisserie spit, and it would be great if it comes with two baking trays and K1-style knobs.",208,70
+R1621,"I'm looking for an oven that has pyrolytic self-cleaning, and ideally includes a double grill, a fan and a rotisserie/turnspit.",160,50
+R1627,"I'm looking for a stainless steel oven that has both a top heating element and a bottom heating element with a fan; it should not have a rotisserie spit, and I would prefer one without a timer.",208,59
+R1628,"I'm looking for a 90 cm wide oven that includes both a grill and a turnspit function, and it should come without a plug on the power cable.",172,51
+R1629,"I'm looking for an oven that definitely includes both a double grill with fan and a turnspit, and also has a bottom heat with fan; I would preferably like it to come without any baking tray.",204,59
+R1630,I'm looking for a black oven that includes a turbo cooking function; ideally it would also feature HydrocClean for easier cleaning.,167,43
+R1632,"I'm looking for an oven that definitely includes a double grill with a turnspit, a fan-and-ring cooking mode, and a grill with turnspit capability; I'd prefer the control knobs to be black.",197,60
+R1633,"I'm looking for a 90 cm oven with the H5 handle that definitely includes pyrolytic self-cleaning, and ideally also has a fan with ring heating.",187,51
+R1634,"I'm looking for a built-in oven that offers both conventional top-and-bottom heating and also includes a bottom+fan mode, has a single telescopic rail, includes a digital timer if possible, and definitely does not have Wi‑Fi.",207,65
+R1635,"I'm looking for an oven that definitely has a double grill, includes top, bottom and fan cooking modes, and has an oven light—also it must come with the H2 style handle.",192,56
+R1640,"I'm looking for an oven that comes in a box and includes defrost, top+bottom with fan, and a grill with fan; it should also include one wire shelf.",211,53
+R1641,"I'm looking for an oven that has top and bottom heating, includes an oven light, features a double grill with fan and a turnspit, and comes without a power cable.",199,54
+R1647,"I'm looking for an oven that has a bottom heating element with a fan, includes a double grill with fan, and also features an oven light—it must come with exactly two wire shelves.",195,56
+R1648,"I'm looking for an oven that has bottom heat with a fan, a glass front panel, white handles, and it must include a digital timer.",183,47
+R1650,"I'm looking for a convection oven with a metal control panel that definitely has both a grill and a turnspit function, and I do not want a pizza tray included.",189,52
+R1654,"I'm looking for an oven that definitely has a double grill with fan, also includes a regular grill, and does not have Wi‑Fi; preferably it would be energy class A and come with one wire shelf.",203,60
+R1659,I'm looking for an oven with a 75-liter capacity and that includes a turbo/convection cooking function — preferably with that turbo feature.,152,45
+R1660,"I'm looking for an oven that includes HydroClean, has two baking trays, and preferably offers Top+Bottom+Fan and 3D cooking modes with K4-style knobs.",212,53
+R1662,"I'm looking for an oven that definitely has defrost and a pyrolysis self-cleaning function; ideally it would also include a double grill, and it must not come with a pizza tray.",192,56
+R1664,"I'm looking for an oven that includes double grill, a fan setting, and a rotisserie/turnspit, with no baking tray, no telescopic rails, and without a pizza tray.",199,57
+R1665,I'm looking for an oven that includes a Top and Bottom cooking function and also has HydroClean for easy maintenance; having the cleaning set to HydroClean would be preferred.,172,51
+R1666,"I'm looking for an oven that includes HydroClean self-cleaning, has energy class A, and comes without a plug on the power cable; a model with the H4-style handle would be preferred.",184,58
+R1667,"I'm looking for a 60 cm wide oven (no Wi‑Fi) that includes top, bottom, and combined top+bottom cooking functions, and preferably has an A+ energy rating.",217,56
+R1673,"I'm looking for an oven that includes a top heating function, comes packaged in shrink wrap, and preferably has K2-style knobs.",167,44
+R1674,"I'm looking for a 70 cm wide oven with a 65 L capacity that includes double grill, fan and a rotisserie/turnspit function, and it must have pyrolytic self-cleaning.",194,60
+R1675,"I'm looking for an oven that includes double grill and fan-assisted double grill functions, comes with K2-style knobs, is delivered in a box, and does not have Wi‑Fi.",204,55
+R1676,"I'm looking for an oven that can defrost food, and ideally also has both top and bottom heating elements; it must not have Wi‑Fi and should come packaged in a box.",184,55
+R1677,"I'm looking for a convection oven that has exactly eight functions, definitely includes pyrolysis for self-cleaning, and also offers top+bottom+fan and double-grill+fan cooking modes; I'd prefer it to have a silver handle.",231,65
+R1678,"I'm looking for a convection oven that comes with pyrolysis self-cleaning and a rotary control knob, and it must be supplied with a UK type power plug.",189,50
+R1685,"I'm looking for a 60 cm oven (preferred) with black knobs that includes both top and bottom heating with a fan, and also features a double grill plus fan and a turnspit.",195,57
+R1687,"I'm looking for a built-in oven about 90 cm wide that definitely has top and bottom heating and a double grill with fan, and preferably also includes a defrost function.",192,53
+R1692,"I’m looking for a 60 cm built-in oven with HydroClean and a double grill with fan, preferably with a black handle, packaged with shrink wrap.",222,50
+R1696,"I'm looking for an oven that definitely includes top heating and a combined top-and-bottom cooking mode, and it should also offer a bottom heating option; it must have a standard cleaning system (ETC), should not include any wire shelves, and I would prefer it to come with K3-style knobs.",222,78
+R1697,"I'm looking for a built-in oven that has both top and bottom heating functions, with black control knobs; I’d prefer it to come without telescopic rails and ideally be energy class A+, but the top/bottom heating and black knobs are must-haves.",204,70
+R1703,"I'm looking for an oven that has a top heating element and preferably also top-and-bottom heating, with no wire shelf included, catalytic self-cleaning, and no rotisserie spit.",207,54
+R1704,I'm looking for an oven that includes a double grill with a turnspit and has a rotary knob control; having a defrost function would be a nice extra.,175,51
+R1706,"I'm looking for an oven that includes a pyrolytic self-cleaning function, with white control knobs, and ideally one that does not come with a pizza tray.",169,51
+R1713,I'm looking for a 60 cm wide built-in oven that definitely has a double grill with fan and ideally also offers a bottom heat with fan.,173,47
+R1716,"I'm looking for an oven that has top, bottom and fan cooking modes, comes with a UK plug, and features catalytic self-cleaning — ideally in a white finish if available.",189,54
+R1717,I'm looking for an oven with energy class A that also includes a grill and fan function.,150,36
+R1718,"I'm looking for a 60 cm oven that includes double grill with a turnspit, a defrost setting, and a combined double grill with fan plus turnspit.",200,53
+R1720,I'm looking for a 60 cm oven that has both top and bottom heating functions.,167,35
+R1721,"I'm looking for an oven that definitely has a top heating function, includes bottom heating (and preferably a bottom+fan option as well), comes with no roasting tray, has two telescopic rails if possible, and uses a rotary knob control.",228,66
+R1722,"I'm looking for an oven that includes bottom, top, and bottom+fan cooking functions; I would prefer it not to have a rotisserie spit and would like a model with eco/standard cleaning if possible.",203,60
+R1723,I'm looking for an oven that includes HydroClean self-cleaning and comes with the H3 style handle.,150,39
+R1724,"I'm looking for a built-in oven that has a grill and a rotisserie function, comes with no telescopic rails, includes a wire shelf, and has retractable control knobs.",196,54
+R1728,"I'm looking for an oven that includes a steam cooking function, with a H2-style handle, and rotary knobs for controls.",166,43
+R1733,"I'm looking for an oven that includes a pizza function, has a silver knob, and comes with exactly two wire shelves.",169,42
+R1737,"I'm looking for a 70 cm convection oven (no power cable) that includes top, bottom and fan heating—ideally the oven should have all three heating functions.",190,52
+R1742,"I'm looking for an oven that includes both top and bottom heating elements, comes packaged with shrink wrap, and has the H4-style handle.",168,46
+R1744,"I'm looking for a stainless steel oven with handle type H3 and one set of telescopic rails; it must include double grill with fan and a turnspit, and preferably also offer a pyrolytic self-cleaning function.",217,64
+R1745,"I'm looking for an oven that has both top and bottom heating as well as top-only and bottom-only options, is energy class A, and comes with one baking tray.",205,52
+R1747,"I'm looking for a built-in oven with pyrolytic self-cleaning and a digital timer, plus it should include a defrost function; it must come with one roasting tray and should not include a pizza tray.",208,61
+R1749,I'm looking for an A+ energy oven that includes 3D cooking and also has grill and fan plus turbo functions; I would prefer one without a turnspit.,207,52
+R1754,"I'm looking for a built-in oven with an electronic touch timer, exactly ten cooking functions, and it should include Turbo and a dedicated Pizza function; Wi‑Fi connectivity would be a plus.",204,56
+R1755,"I'm looking for an oven that has both top and bottom heating elements, includes a digital timer, offers an 82-liter capacity, and does not come with a pizza tray.",204,53
+R1756,"I'm looking for an oven that includes bottom with fan, double grill, and top+bottom+fan cooking modes; it must come without a power cable, and should not include any wire shelf or roasting tray.",234,60
+R1758,"I'm looking for a convection oven with top and bottom heating and an oven light as essential features; I'd prefer one that also includes a double grill and comes with a US-type power plug, and the control knobs should be silver.",228,63
+R1760,"I'm looking for an oven that has a top heating function and preferably also offers a bottom heating function, and I'd like it to feature an easy-to-clean (self-clean or similar) cleaning option.",166,57
+R1761,"I'm looking for an oven that definitely has a Fan+Ring cooking function and an electronic touch timer, and I'd prefer it to also include a Double Grill feature.",175,50
+R1763,"I'm looking for an oven that includes a defrost setting and a double grill with fan, ideally with about eight cooking functions, two telescopic rails, and roughly a 65-liter capacity.",213,56
+R1764,"I'm looking for a built-in oven that definitely has a pyrolytic self-cleaning function and includes a fan and ring cooking mode; I would also prefer it to offer a defrost setting, and it must come with an EU-type power plug.",193,68
+R1765,I'm looking for an oven around 65 liters with two wire shelves; it must have a Top+Bottom+Fan cooking mode and should also include Bottom+Fan and an oven light. I would prefer one without a pizza tray.,231,64
+R1767,I'm looking for a convection oven with energy class A that features pyrolysis self-cleaning and includes both a grill and a turnspit.,209,46
+R1771,"I'm looking for a 60 cm oven that includes both grill and grill+fan functions, has no telescopic rails, and ideally offers around five different cooking functions.",208,51
+R1773,"I'm looking for a built-in oven with top and bottom heating for reliable baking, a black handle, and preferably features like a double grill, fan assistance and a turnspit for roasting.",176,56
+R1775,"I'm looking for an oven with a US plug and exactly eight functions; it must include an oven light and also have grill with turnspit and a defrost setting, and I prefer it not to come with a pizza tray.",230,64
+R1778,"I'm looking for a wall oven that includes an interior oven light and a double grill with a fan, does not have Wi‑Fi connectivity, and comes with one roasting tray.",189,53
+R1779,"I'm looking for an oven that includes both top and bottom heating elements as well as a combined top+bottom mode, comes without any telescopic rails, and is delivered in a box.",208,55
+R1780,I'm looking for an oven that includes HydroClean cleaning and ideally has an internal capacity of 82 liters.,152,39
+R1783,I need an oven that includes a pyrolysis self-cleaning function and that does not have a timer.,154,39
+R1788,I'm looking for an oven that includes a steam cooking function and comes with exactly two wire shelves.,152,37
+R1791,I'm looking for a 60 cm built-in oven that has both a top heating element and a bottom heating element with a fan.,169,44
+R1792,"I'm looking for a 90 cm wide metal-front oven, ideally with eight functions, and it should include both a bottom+fan setting and a top+bottom+fan setting.",207,54
+R1798,"I'm looking for an oven that includes both top and bottom heating and a pyrolytic self-cleaning function, and please ship it in a box.",171,48
+R1799,"I'm looking for an oven that offers pyrolytic self-cleaning, includes top, bottom and fan heat settings (and preferably a fan-and-ring option), has exactly eight functions, comes with a UK-type plug, and does not include a pizza tray.",232,69
+R1801,"I'm looking for a 65‑liter oven that includes pyrolytic self‑cleaning, has two wire shelves, and ideally also offers a defrost function; a silver handle would be preferred.",207,58
+R1803,"I'm looking for an oven that absolutely includes pyrolytic self-cleaning and top-and-bottom heating, and ideally also offers a defrost function, with no wire shelf.",193,52
+R1806,I'm looking for a black oven with eight functions that includes both a grill and a turnspit and also offers pyrolysis cleaning.,209,44
+R1811,"I'm looking for an oven that has both a Double Grill and a Double Grill with Fan cooking mode, includes a pyrolysis self-cleaning feature, uses a digital timer, and has rotary-style knobs.",211,58
+R1812,"I'm looking for an oven that definitely has top and bottom heating, and preferably also offers a steam function; I'd like it with no baking tray included.",172,48
+R1822,"I'm looking for an oven that definitely includes both a grill with a turnspit and a double grill with turnspit, and preferably also has a double grill combined with a fan; it must not have a pizza tray.",205,63
+R1828,I'm looking for an oven that includes HydroClean self-cleaning and comes without a power plug attached.,153,38
+R1831,"I'm looking for a convection oven (no Wi‑Fi) that includes grill with a turnspit, and preferably also offers double grill with fan plus turnspit and a top+bottom heat with fan; it should come without any baking tray.",236,68
+R1832,"I'm looking for a convection oven that has turbo cooking, includes a defrost setting and a pizza mode, and features HydroClean self-cleaning.",207,47
+R1836,"I'm looking for a silver oven that has both a top heating element and a bottom element with a fan, ideally about 90 cm wide.",185,46
+R1837,"I'm looking for an oven that has both grill and fan functions and a pizza setting, with an H3-style handle, that definitely comes with a pizza tray and uses a US-type power plug.",206,57
+R1839,"I'm looking for an oven that has a bottom heating function, includes a double grill and a defrost setting, and comes without a plug on the power cable.",191,50
+R1840,"I'm looking for a built-in oven that includes a pyrolysis self-cleaning cycle and a double grill function, and preferably also offers a double grill with fan option; I would like it supplied without a power cable.",196,61
+R1841,"I'm looking for an oven that includes both a grill and a turnspit, has energy class A, and preferably offers other cleaning options.",167,46
+R1842,"I'm looking for a convection oven that has grill with a turnspit, double grill with a turnspit, and double grill with fan plus turnspit, and I'd prefer it to have black knobs.",221,60
+R1843,"I'm looking for an oven that includes bottom heating and a top+bottom setting, ideally with a top heating option as well, and it should come with exactly one baking tray.",190,53
+R1846,I'm looking for an oven that comes with a turbo/convection cooking function and definitely includes a pizza tray.,152,39
+R1849,"I'm looking for an oven that includes a top heating function, with K1-style rotary knobs, and without a timer.",186,42
+R1850,"I'm looking for a silver oven that has a grill and turnspit function, definitely with two telescopic rails, and I don't want a pizza tray.",192,49
+R1851,"I'm looking for an oven that has a top heating function, and preferably also a bottom heating function; it must not include a rotisserie spit and must not have a pizza tray, and I don't want Wi‑Fi connectivity.",200,63
+R1854,"I'm looking for a convection oven with two wire shelves and no rotisserie spit, and it would be great if it includes a pyrolytic self-clean function.",189,50
+R1855,"I'm looking for an oven that has both double grill and top-and-bottom cooking modes, includes a defrost function, comes with a 65 L capacity if possible, includes a pizza tray, and has black control knobs.",226,62
+R1859,I'm looking for a 75-liter oven with an easy-clean system that ideally includes a double grill plus fan function.,170,41
+R1864,"I'm looking for a built-in oven that has a fan plus ring cooking function, offers pyrolysis self-cleaning if possible, and provides a total of 8 cooking functions.",173,53
+R1868,"I'm looking for a white oven without a timer that definitely includes double-grill, fan, and a turnspit, and preferably also offers grill with turnspit, pyrolysis cleaning, and a US-type power plug.",236,63
+R1870,"I'm looking for a 60 cm oven with a metal control panel that definitely includes a rotisserie spit, and preferably has an oven light as well.",183,48
+R1871,"I'm looking for an oven that has a light inside and, importantly, features an easy-clean system.",149,38
+R1876,"I'm looking for an oven that includes pyrolytic self-cleaning, top and bottom heating, and a double grill function; it must not have a timer, and I would prefer it without Wi‑Fi.",208,60
+R1880,"I'm looking for a built-in oven with a sturdy H5-style handle, it must have a fan+ring cooking mode and preferably include a pyrolysis self-cleaning function.",171,53
+R1882,"I'm looking for a 65-liter oven that has both top, bottom and fan cooking together and includes a fan+ring option, with pyrolytic self-cleaning; I'd prefer one with a silver handle.",211,60
+R1884,"I'm looking for an oven that has both top-and-bottom heating and a bottom-with-fan function, comes with one baking tray (no pizza tray), and features a black handle.",207,54
+R1887,I'm looking for a 60 cm oven with eight functions that definitely includes a double grill with a turnspit and a defrost setting; a model with a glass control panel would be preferred.,208,57
+R1888,"I'm looking for an oven that has a defrost setting, a grill function and an interior light, and it must have a rotary knob control.",188,47
+R1890,I'm looking for a glass-front oven with energy class A; it should include a bottom cooking function and preferably have two telescopic rails.,185,45
+R1899,"I'm looking for an oven that includes double grill with fan and 3D cooking functions, preferably also offering a turbo mode; it should have silver K2-style knobs and come with two roasting trays.",229,58
+R1900,"I'm looking for an oven that includes bottom-only heating, the 3D cooking function, and a top+bottom+fan mode; it should have exactly 10 different functions in total, and I would prefer it not to have a rotisserie.",210,68
+R1904,I'm looking for an oven that includes a pizza function and comes with exactly two roasting trays and one wire shelf.,171,40
+R1909,"I'm looking for an oven with 8 functions that definitely includes a double grill with fan and spit, and also has grill with a turnspit and a defrost setting; it should come in shrink packaging and preferably have a black handle.",232,66
+R1911,"I'm looking for a built-in oven that definitely has a top heating function, and preferably also offers top-and-bottom heating and a bottom-only setting; I'd like it to use a rotary knob control and not have any Wi‑Fi features.",202,65
+R1913,I'm looking for an oven that definitely has both top and bottom heating elements and comes with the K5-style control knob.,168,42
+R1914,"I'm looking for an oven that definitely has Double Grill with a turnspit function, and energy efficiency rated A+. Ideally it would also include a fan-and-ring heating mode and come without telescopic rails, but those last two are optional.",196,66
+R1915,I'm looking for a built-in oven that has pyrolytic self-cleaning and comes with white control knobs.,151,40
+R1917,I'm looking for a convection oven that definitely includes a turnspit and also comes with double grill capability; if possible I'd prefer the double grill to work with a fan-assisted mode as well.,183,56
+R1923,"I'm looking for a 60 cm oven, and I'd prefer one that includes a pyrolysis self-cleaning function.",151,41
+R1925,"I'm looking for a 65-liter oven that has an electronic touch timer, includes a grill function, comes with two telescopic rails, and preferably offers a HydroClean cleaning option.",211,54
+R1929,I'm looking for an oven that can bake pizza and that measures about 45 cm wide.,149,36
+R1931,I'm looking for a built-in oven with a sleek glass control panel and rotary knobs; it should include a bottom heating function and also offer bottom-plus-fan cooking.,186,51
+R1933,"I'm looking for an oven that includes DoubleGrill and DoubleGrill with fan functions, has a fan plus ring mode, comes without any baking trays, and preferably with a black handle.",211,56
+R1936,"I'm looking for an oven that has an oven light, supports top, bottom and fan heating together, and that features hydroclean self-cleaning.",174,47
+R1937,"I'm looking for an oven that has top and bottom heating plus bottom with fan, with a total of five functions if possible, featuring an H4-style handle and a US-type power plug.",224,56
+R1939,"I'm looking for a 45 cm oven with shrink-wrapped packaging that definitely includes both top + bottom + fan and fan + ring cooking modes, has two telescopic rails, and ideally offers HydroClean as a preferred cleaning option.",230,64
+R1943,"I'm looking for an oven that definitely includes a grill with a fan function and preferably also has a plain grill option, and I'd like it without a timer.",172,49
+R1945,"I'm looking for an oven that includes HydroClean self-cleaning, has retractable knobs, and supports Wi‑Fi connectivity.",167,43
+R1946,"I'm looking for an oven that includes pyrolytic self-cleaning and has both a double grill with fan plus a turnspit and a grill with turnspit, and it must come with exactly two wire shelves.",202,62
+R1952,"I'm looking for a 60 cm oven that definitely has a bottom heating function and, if possible, comes with two telescopic rails.",170,45
+R1959,"I'm looking for an oven that includes pyrolytic self-cleaning, a double grill function, and a fan-plus-ring convection option; it must have rotary knobs and no telescopic rails.",213,56
+R1960,"I'm looking for an oven that supports top, bottom and fan cooking, comes in energy class A+, and preferably is delivered in shrink-wrapped packaging.",170,48
+R1962,"I'm looking for an oven that includes a double grill and a turnspit function, and it must have a turnspit feature.",156,45
+R1965,"I'm looking for an oven that definitely has both grill and fan cooking modes, includes a defrost function, and comes with an EU type plug.",173,47
+R1968,I'm looking for an oven that includes a bottom heating function and that does not come with any roasting tray.,152,39
+R1970,"I'm looking for a built-in oven that definitely has a grill+fan function and also includes a grill option; preferably it would come with one roasting tray, retractable knobs, and a metal control panel.",207,59
+R1971,"I'm looking for a countertop oven that includes pyrolysis self-cleaning, has a defrost setting, and offers a grill function — and it must be pyrolitic for cleaning and not have a rotisserie turnspit.",208,63
+R1974,I'm looking for a convection oven that definitely includes HydroClean and also has double grill and double grill with fan capabilities; preferably it comes without a roasting tray.,213,49
+R1979,"I'm looking for an oven that definitely has pyrolytic cleaning and includes both a grill with a rotisserie and a double grill with fan plus rotisserie, and it should have K1-style knobs.",200,58
+R1982,"I'm looking for an oven that has both a bottom heating element with fan assistance and a double grill with fan, and it must come with a UK-type power plug.",176,51
+R1983,"I'm looking for a convection oven that includes double grill, fan and a turnspit, preferably with K1-style controls and a rotary knob.",193,47
+R1990,I'm looking for an oven that includes a top heating function and also a bottom heating function (the bottom function is essential). It must come packaged in a box and include exactly two roasting trays.,186,56
+R1991,"I'm looking for an oven that includes double grill with a turnspit, and it should also support double grill combined with fan and turnspit as well as fan with a ring heating element; it must come with an EU-type power plug.",204,67
+R1993,"I'm looking for an oven that includes top, bottom, and fan heating functions, and please ship it in shrink-wrapped packaging.",154,44
+R1995,"I'm looking for an oven around 65 liters that has self-cleaning (ETC) and includes Double Grill, Double Grill with fan, and Bottom heat with fan functions.",210,53
+R1996,"I'm looking for an oven that definitely has a bottom heating function, and preferably also offers top heating and a combined top+bottom mode, with a total of three functions available.",189,53
+R1997,I'm looking for a 90 cm wide oven that includes a bottom heating element plus fan-assisted cooking; please let me know options that match that width.,151,48
+R2000,"I'm looking for an oven that has a double grill with fan, a pizza function, and HydroClean self-cleaning, and I'd like the control knobs to be black.",190,52
+R2002,"I'm looking for an oven that has both top and bottom heating, includes a pyrolytic self-clean function, and ideally also offers a double grill with a turnspit; it must have retractable control knobs.",198,61
+R2005,"I'm looking for an oven that includes a defrost function, comes with exactly one baking tray, and does not have Wi‑Fi.",167,45
+R2008,"I'm looking for an oven that has a defrost setting, and I'd like it to also include steam cooking if possible. Please ship it in shrink wrap, ensure it comes with one baking tray, and make sure it has the H3-style handle.",204,68
+R2011,I'm looking for an oven that has both top and bottom heating elements and a 75-liter capacity.,169,38
+R2012,"I'm looking for an oven that includes a turbo cooking mode, and I'd prefer it to have an oven light and a double grill; it should also come with exactly two wire shelves.",192,54
+R2014,"I'm looking for an oven that includes a fan+ring cooking function and a pizza setting, and it must come with a pizza tray.",171,45
+R2016,"I'm looking for an oven that includes a grill with a turnspit feature and also offers pyrolytic self-cleaning, and it should have a total of 8 different cooking functions.",175,56
+R2017,"I'm looking for an oven that definitely has a double grill and HydroClean self-cleaning, ideally also a pizza function, and with exactly two wire shelves.",191,49
+R2019,"I'm looking for a built-in oven with a black handle and retractable knobs, equipped with exactly one telescopic rail, and it should include a bottom heating function.",188,51
+R2021,"I'm looking for an oven that definitely has a pyrolysis self-cleaning function; ideally it would also include a grill with a turnspit/rotisserie option, and please supply it with an EU-type power plug.",176,62
+R2023,"I'm looking for a countertop or built-in oven that includes a grill function, and I don't want any Wi‑Fi connectivity—please only show models without smart/wireless features.",147,54
+R2025,I'm looking for a convection oven that includes HydroClean cleaning functionality; packaging in shrink-wrap would be preferred.,187,39
+R2028,"I'm looking for an oven that definitely has both grill with a turnspit and a double-grill with a turnspit, and preferably also offers a fan plus ring cooking function; it should come with an EU-type power plug.",200,65
+R2033,"I'm looking for an oven that includes a double grill function, definitely without a pizza tray, and it must be a model without a timer.",172,46
+R2036,"I'm looking for a built-in oven that includes pyrolytic self-cleaning, offers both double grill with fan and top/bottom heat with fan cooking modes, has exactly eight cooking functions in total, and comes with one wire shelf.",216,65
+R2037,"I'm looking for an oven that definitely includes both double grill and double grill with fan functions, has no wire shelf at all, and preferably offers pyrolytic self-cleaning and an A energy rating.",211,58
+R2038,"I want an oven that definitely has an interior light, preferably with both a grill and double-grill functions, and please supply it without a power cable.",191,49
+R2042,"I'm looking for an oven that has double grill and pyrolytic self-cleaning functions, preferably also offering top + bottom heat with fan, and with a digital timer.",194,52
+R2043,"I'm looking for an oven with a 75-liter capacity that has both fan-and-ring heating and a steam cooking function, and it should come with an EU-type power plug.",190,53
+R2045,"I'm looking for a built-in oven that definitely has a double grill feature, and preferably offers a pyrolytic self-cleaning function; I don't want a spit/rotisserie option.",172,55
+R2046,"I'm looking for an oven that definitely includes a double grill and a pyrolysis self-cleaning function, and it must come with two roasting trays.",174,47
+R2047,I'm looking for an oven that has eight cooking functions and that includes a double grill option; please let me know what models match.,153,44
+R2049,"I'm looking for a convection oven that definitely has turbo, double grill with fan, and a bottom heating function.",192,40
+R2051,"I'm looking for an oven that has both top and bottom heating, includes a pyrolytic self-cleaning cycle, and comes with the K2 style knobs.",172,50
+R2053,"I'm looking for an oven that definitely has both a grill and fan function; if possible I'd also like it to include a turbo setting, and please note I prefer models sold without a power plug.",173,57
+R2054,"I'm looking for an oven that includes a grill function and a pyrolysis self-cleaning cycle, and it should have silver control knobs.",170,45
+R2057,"I'm looking for an oven that has top and bottom heating, about an 82‑liter capacity, comes without any wire shelf, and preferably features the K3-style knobs.",189,53
+R2061,I'm looking for a stainless steel built-in oven that definitely offers a bottom cooking function and also includes turbo and grill+fan modes if possible.,191,46
+R2064,"I'm looking for an oven that definitely includes double grill with fan and bottom heat with fan, preferably also offering top, bottom and fan cooking, with black K2-style knobs and an A+ energy rating.",228,59
+R2070,"I'm looking for a silver-handled oven with a glass control panel, and I'd prefer one that includes a grill and fan function.",167,44
+R2072,"I'm looking for an oven that includes a double grill function, and it must not come with a pizza tray.",153,40
+R2077,"I'm looking for an oven that has exactly eight different cooking functions, and I would prefer it to include a double grill, fan cooking and a turnspit rotisserie.",159,52
+R2085,"I'm looking for an oven that definitely includes both a grill and a turnspit, and preferably would be a convection model.",155,43
+R2087,"I'm looking for a black-handled oven that definitely has an easy ETC cleaning system, and preferably includes 3D cooking capabilities, with no rotisserie/spit function.",182,52
+R2088,"I'm looking for a convection oven that definitely has 3D heating, includes both top and bottom cooking functions, does not have a rotisserie turnspit, and preferably features an electronic touch timer control.",210,59
+R2090,"I'm looking for an oven that definitely has both a fan and ring heating function, absolutely no pizza tray, and preferably includes a pyrolysis self-cleaning cycle and an A energy rating.",188,55
+R2093,"I'm looking for an oven with top and bottom heating as a must, a metal control panel, a US-type power plug, and exactly one wire shelf; I'd prefer it to include double grill with fan and turnspit and also have a pyrolysis self-cleaning function.",235,73
+R2096,I'm looking for a compact oven about 45 cm wide that definitely has a steam cooking function.,149,37
+R2097,"I'm looking for an oven that definitely has Top and Bottom cooking, includes a DoubleGrill function, offers 11 functions in total, comes with handle type H2, and preferably has a white control panel.",204,60
+R2099,"I'm looking for an oven that includes a top cooking function, has a silver handle, comes without any wire shelves, and is shipped in shrink packaging—please note the silver handle is required, the top function and shrink packaging are preferred.",185,65
+R2102,"I'm looking for an oven that definitely has HydroClean self-cleaning, a Pizza cooking mode, and a Grill function, and preferably with an electronic touch timer.",190,50
+R2107,"I'm looking for an oven that definitely has a bottom+fan cooking mode and also includes a top-and-bottom heating option, and it must not come with a pizza tray.",173,52
+R2110,"I'm looking for an oven that definitely has a double grill and a turnspit, ideally with K5-style knobs, and without Wi‑Fi.",170,48
+R2114,"I'm looking for an oven that definitely includes both a Grill with a turnspit and also features a Double Grill with a fan and turnspit, and it should offer exactly 8 cooking functions in total.",181,60
+R2115,"I'm looking for an oven that includes a pyrolytic self-cleaning cycle, ideally with a grill function as well, and that comes with one baking tray.",172,50
+R2125,I'm looking for an oven that includes HydroClean self-cleaning and comes without a power cable.,153,37
+R2127,"I'm looking for a new oven that definitely includes a grill and fan function, and if possible comes packaged with shrink wrap.",152,42
+R2130,"I'm looking for an energy class A oven that definitely has a turnspit and includes grill plus turnspit functions, and ideally comes with one wire shelf.",188,50
+R2131,I'm looking for a 60 cm stainless steel oven that has steam cooking and also features a double grill with a fan.,190,42
+R2139,"I'm looking for an oven that has top and bottom heating, includes both fan+ring and a pizza function, and ideally comes with an electronic touch timer and about an 82‑litre capacity.",211,58
+R2140,"I'm looking for an oven with an A+ energy rating and the H2 style handle; it should include a double grill plus fan cooking function, and I don't want a spit-rotation feature.",186,57
+R2144,"I'm looking for an oven that has top, bottom and fan cooking modes, a Hydroclean self-cleaning function, and a 75‑liter capacity.",173,49
+R2145,"I'm looking for a convection oven around 65 liters that definitely includes a defrost setting; I'd also prefer one that offers top and bottom heating and a HydroClean self-cleaning feature, and if possible has an A+ energy rating.",225,65
+R2152,"I'm looking for a white oven that includes 3D cooking functionality (and preferably turbo), and please supply it without a power plug.",188,45
+R2155,"I'm looking for a new oven with a rotary knob control and energy class A; I'd prefer one that has an oven light and features a double grill with a fan, and I don't want Wi‑Fi connectivity.",202,60
+R2167,"I'm looking for an oven with a built-in grill, retractable knobs, and no rotating spit.",169,38
+R2168,"I'm looking for a convection oven (preferably) that has top-and-bottom heating and a bottom-only mode, includes a double grill option, comes with silver knobs, and is delivered in a box.",224,58
+R2170,I'm looking for a 70 cm wide oven that comes with two baking trays and includes 3D cooking functionality.,170,41
+R2174,"I'm looking for an oven with grilling and a turnspit function, white handles, a metal control panel, and exactly two telescopic rails.",189,47
+R2177,"I’m looking for an oven that definitely has a pyrolytic self-cleaning cycle; I’d also prefer one with a double grill feature, and if possible the control knobs should be silver.",172,57
+R2179,"I'm looking for a white oven with a built-in light, and I'd prefer one with retractable knobs if possible.",168,41
+R2182,"I'm looking for an oven that includes pyrolysis self-cleaning and a fan with ring heating, offers exactly eight cooking functions, prefers shrink-wrapped packaging if available, and would ideally have retractable control knobs.",209,60
+R2183,"I'm looking for an oven that includes turbo and 3D cooking modes, has an electronic touch timer, and features retractable white knobs.",209,46
+R2184,"I'm looking for a built-in oven with top and bottom heating, a bottom+fan option if available, retractable control knobs, and a black front.",205,49
+R2191,"I'm looking for a built-in oven that definitely has both grill and fan cooking modes, comes packaged in its box, and features K1-style knobs; if possible I'd prefer one with two telescopic rails.",189,59
+R2192,"I'm looking for an oven that has top, bottom and fan cooking plus an oven light, includes a double grill with fan and a turnspit, comes with two roasting trays, and preferably has catalytic self-cleaning.",219,62
+R2194,"I'm looking for a 60 cm wide oven with a black handle that definitely has top, bottom and fan cooking plus bottom+fan, and I’d prefer it also includes a double grill with fan and a turnspit.",214,63
+R2197,"I'm looking for an oven that has both top and bottom heating functions, includes exactly five functions in total, comes with two wire shelves, and preferably is shipped in shrink packaging.",205,53
+R2198,"I'm looking for a built-in oven with a 60 cm width and a glass control panel, please — it must have an oven light and preferably include a pizza function as well.",184,54
+R2201,"I'm looking for a convection oven that definitely has a Bottom+Fan cooking function, and preferably also includes Top+Bottom and Double Grill functions.",193,46
+R2212,"I'm looking for an oven that has both top heating and bottom heating elements, includes one wire shelf, and definitely does not have a rotisserie or a pizza tray.",205,51
+R2214,"I'm looking for an oven with a black control knob and that includes top, bottom and fan cooking functions; the knob color must be black, while the top+bottom+fan feature is preferred.",153,57
+R2218,"I'm looking for an oven with exactly 8 functions that includes pyrolytic self-cleaning and a grill with a turnspit, no pizza tray, and a silver handle; the pyrolysis and grill+turnspit features are preferred but not mandatory.",209,70
+R2219,"I'm looking for an oven that has pyrolytic self-cleaning and a grill function, with a capacity of exactly 65 liters.",171,45
+R2229,"I'm looking for an oven that can bake pizzas and has a bottom-heat function, with a rotary knob handle type, and ideally with Wi‑Fi connectivity.",198,50
+R2232,"I'm looking for an oven that definitely has both top and bottom heating elements, preferably with an additional bottom‑plus‑fan setting, and it should not include a rotisserie spit.",188,54
+R2238,"I'm looking for an oven that definitely includes double grilling, a fan mode, and a rotisserie/turnspit option; a model without a pizza tray would be preferred.",159,53
+R2240,"I'm looking for an oven that has a top heating function as well as a bottom+fan setting, with an H4-style handle, and ideally around 60 cm wide.",185,53
+R2247,"I'm looking for a new oven that comes packaged in a box; it should include both bottom+fan and top+bottom cooking functions, and I don't want a pizza tray included.",189,54
+R2249,"I'm looking for an oven that has top heating and also includes bottom heating with a fan, uses knob type K1, does not come with a pizza tray, and preferably is a convection model.",224,57
+R2251,"I'm looking for an oven that has top, bottom, and combined top-and-bottom heating functions, with a metal control panel, shrink-wrapped packaging, and an H3-style handle.",220,55
+R2256,"I'm looking to buy an oven that includes a double grill and a built-in turnspit, and it must come without a power plug — please let me know available models that meet these requirements.",158,57
+R2259,"I'm looking for an oven that includes a top heating function, comes without a power cable, is supplied without a timer control, and is packaged in a box.",187,50
+R2264,"I'm looking for an oven that features pyrolytic self-cleaning, has the H4 style handle, and offers exactly eight cooking functions.",169,46
+R2265,"I'm looking for an oven that has both top and bottom heating elements, does not include a pizza tray, and features a digital timer control.",186,46
+R2270,"I'm looking for an oven that definitely includes a double grill function; ideally it would be a convection model and, if possible, feature an easy-clean (e.g., catalytic or similar) cleaning system.",168,58
+R2271,"I'm looking for an oven that definitely has top, bottom and fan cooking functions and does not include a rotisserie or turnspit.",154,45
+R2273,"I'm looking for an oven that definitely has double grill with a fan and top, bottom and fan cooking modes, and preferably includes a pyrolysis self-cleaning function; I'd also like a model with a metal control panel if possible.",195,64
+R2279,"I'm looking for a silver oven that comes with a double grill, definitely with no roasting tray, and ideally has catalytic cleaning.",188,43
+R2281,"I'm looking for an oven that definitely has a top heating function, and it must come with the electronic cleaning feature and two roasting trays; I would prefer one that also offers bottom with fan and top-and-bottom cooking modes, and ideally has a stainless-steel handle.",226,71
+R2284,"I'm looking for an oven that has a bottom heating function, comes with one baking tray, and a silver handle; if possible I'd like it to also include 3D cooking, and I don't want a rotisserie/spit feature.",205,65
+R2293,"I'm looking for an oven that has a top heating function, and preferably also offers bottom heating, with a digital timer for precise cooking.",168,45
+R2296,"I'm looking for an oven that includes a light and a bottom heating function, has hydroclean self-cleaning, does not have a rotisserie spit, and comes with a pizza tray.",205,55
+R2300,"I'm looking for a black oven with interior lighting, and I'd like it to include both top and bottom heating plus a fan, and also the option to run just the top and bottom heating.",191,56
+R2301,I'm looking for an oven that has both top and bottom heating elements and preferably is rated A+ for energy efficiency.,167,41
+R2305,"I'm looking for an oven that has both top and bottom heating, includes a grill with fan assistance if possible, does not have a rotisserie spit, features a black handle, and offers easy-to-clean (self- or enamel-clean) maintenance.",202,67
+R2306,"I'm looking for an oven that includes a double grill and preferably has an oven light, with two wire shelves and the H5-style handle.",189,46
+R2308,"I'm looking for a convection oven that definitely includes HydroClean and preferably also offers Top+Bottom+Fan and DoubleGrill functions, and I'd like it to come with a pizza tray if possible.",212,57
+R2309,"I'm looking for a new oven that definitely has a fan with a ring heating element, preferably also offers HydroClean self-cleaning, and with a handle style H4.",170,52
+R2313,"I'm looking for an oven that includes a defrost setting (this is a must) and preferably also offers a pyrolysis self-cleaning function, and I'd like it without a timer.",173,55
+R2316,"I'm looking for an oven that includes HydroClean self-cleaning, preferably with steam cooking capability, and it should come without any wire shelf.",171,46
+R2317,"I'm looking for a convection oven that has both top and bottom heating, uses a rotary knob control, and preferably comes with two roasting trays.",189,46
+R2319,"I'm looking for an oven that can bake pizza, with an H2-style handle, and I'd prefer it to have retractable knobs.",168,45
+R2321,"I'm looking for a black oven with K1-style knobs that definitely includes an oven light and HydroClean self-cleaning, and preferably also has a pizza cooking function and an electronic touch timer.",224,56
+R2331,"I'm looking for an oven that includes a pyrolysis self-cleaning function, with black handles, supplied with a UK-type power plug, and packaged using shrink wrap.",186,51
+R2332,"I'm looking for an oven that has a grill function, uses K5-style knobs, features Hydroc clean self-cleaning, and ideally offers about 11 cooking functions.",186,52
+R2334,"I'm looking for an oven that has a defrost setting, with a white H4-style handle—no rotisserie or spit feature, please.",182,47
+R2338,"I need an oven that includes a grill and a fan, and please ship it in a box.",151,38
+R2340,"I'm looking for an oven that includes steam and a double-grill function, does not have a turnspit, and must come with a pizza tray.",188,49
+R2349,"I'm looking for an oven that has both top and bottom heating plus a bottom heating with fan option, and preferably it does not come with a pizza tray.",189,49
+R2352,"I'm looking for an oven that has both grill and grill+fan functions, comes with five total cooking functions, includes one roasting tray, and is delivered in a box.",206,52
+R2353,"I'm looking for an oven that has eight different cooking functions in total and definitely includes a double grill, a fan setting, and a rotisserie/turnspit feature.",159,52
+R2354,"I'm looking for a 60 cm oven that comes boxed, features 3D baking so heat circulates evenly, and ideally includes telescopic rails.",188,48
+R2357,"I'm looking for an oven that includes an oven light, features double grill and double grill with fan functions, comes with a US-type power plug, and has a silver handle.",211,53
+R2358,"I'm looking for an oven that has turbo cooking and includes a defrost function; it should come without a plug on the power cable, and I’d prefer it to be energy class A+.",188,56
+R2359,"I'm looking for an oven that definitely has a top heating function, preferably also top and bottom heating, with a metal control panel, no pizza tray, and exactly one wire shelf.",206,54
+R2360,"I'm looking for a Wi‑Fi enabled oven that includes both a pizza mode and a double grill with fan; ideally it would have around an 82‑liter capacity, but that size is flexible.",187,58
+R2362,"I'm looking for a built-in oven that includes Double Grill with fan, a Fan+Ring heating mode, and also has HydroClean, with exactly 10 functions in total; if possible it should come with an EU-type power plug.",213,65
+R2364,"I'm looking for an oven that has both top and bottom heating elements (and preferably a combined top+bottom setting), comes with two roasting trays, has black handles, and ideally features an easy-to-clean system.",220,60
+R2367,"I'm looking for a countertop oven that includes top heating, bottom heating, and a combined top+bottom+fan convection mode, with a single wire shelf and white control knobs.",208,53
+R2369,"I'm looking for an oven that has a built-in oven light, does not include a rotisserie spit, and features retractable control knobs.",170,46
+R2371,"I'm looking for an oven that definitely has both top and bottom heating and also includes a bottom-only mode, and if possible it would be great to have a top+bottom+fan convection option as well; the energy rating should be A.",190,66
+R2375,"I'm looking for an oven that definitely includes a grill and fan function, and it must have K3-style knobs with retractable knobs.",171,45
+R2382,"I'm looking for a new oven that definitely has pyrolytic self-cleaning and includes double grill with fan, and it must come with one telescopic rail and one wire shelf; I'd prefer it also offer a defrost function.",216,64
+R2383,"I'm looking for an oven that has Steam and an oven light, uses HydroClean for cleaning, and comes with K1-style knobs; having HydroClean as a feature would be preferred.",206,55
+R2390,"I'm looking for a new oven with a digital timer that definitely has a double grill function, and ideally it wouldn't have Wi‑Fi.",166,45
+R2394,"I'm looking for a built-in oven that definitely has both a grill and a fan function, and it must not have Wi‑Fi or come with a pizza tray.",167,51
+R2396,"I'm looking for an oven that includes defrost and ideally also offers pyrolytic self-cleaning, with two telescopic rails and the H3-style handle.",191,50
+R2398,"I'm looking for a convection oven (no wire shelves) that definitely has top, bottom and fan cooking plus a fan+ring mode, and ideally also includes a pyrolysis self-cleaning function.",214,57
+R2399,I'm looking for a convection oven that includes pyrolytic self-cleaning and features both a double grill with fan and a turnspit; the pyrolysis and the double-grill-plus-fan-with-turnspit functions are preferred but having convection is a must.,179,71
+R2403,"I'm looking for an oven that has bottom heating and a combined top and bottom function, with K3-style knobs; I’d prefer the knobs to be stainless steel if possible.",208,53
+R2408,"I'm looking for an oven that has top, bottom and fan heating together, includes a grill if possible, comes with two knobs, one wire shelf, and features an easy-to-use catalytic/pyrolytic cleaning system.",206,63
+R2409,"I'm looking for an oven that can both cook pizza and supports 3D cooking technology, preferably with a HydroClean self-cleaning option, and it must not have a rotisserie spit.",189,56
+R2411,I'm looking for a convection oven with a silver handle and K4-style knobs that must include both DoubleGrill+Fan and TURBO cooking functions.,207,48
+R2416,"I'm looking for an oven that has top, bottom and fan cooking, an electronic touch timer control, and that also includes Fan+Ring and HydroClean functions.",196,50
+R2419,I'm looking for a 90 cm convection oven that has both grill with fan and conventional top-and-bottom heating; Wi‑Fi is not wanted.,203,47
+R2421,I'm looking for an oven that comes shrink-wrapped for delivery and includes a grill function and an interior light.,169,40
+R2422,"I'm looking for an oven that has both a double grill with a fan and a grill with a fan, with K2-style knobs, preferably a H3 handle, and I don't want a rotisserie.",207,59
+R2423,I'm looking for a white-knob oven that has both a top-and-bottom heating setting and a fan-with-ring option.,173,42
+R2424,"I'm looking for an oven that includes top, bottom and fan cooking functions, and it must not have a rotisserie/spit feature.",154,45
+R2425,"I'm looking for an oven that includes pyrolytic self-cleaning and a double grill, with optional top-and-bottom heating, and it must have black K4-style knobs.",208,53
+R2427,"I'm looking for a 60 cm wide oven with a US plug that includes pyrolytic self-cleaning and a grill; having top, bottom and fan heating would be a nice extra.",210,56
+R2431,"I'm looking for an oven that definitely has an oven light, includes both bottom heat with fan assistance and a double grill function, comes with one set of telescopic rails, and preferably has a silver handle.",211,59
+R2435,"I'm looking for a simple oven that can defrost and has both bottom+fan and top+bottom+fan cooking modes, without a timer, and preferably comes with two wire shelves and no pizza tray.",232,59
+R2438,"I'm looking for a 65-liter convection oven that includes a double grill and a turnspit rotisserie; ideally it would come without a power cable, but that's optional.",194,53
+R2440,"I'm looking for a 60 cm built-in oven with no telescopic rails that definitely has a grill and turnspit, and preferably also offers double grill with turnspit and double grill plus fan with turnspit.",224,63
+R2442,"I'm looking for an oven with a metal control panel that includes pyrolytic self-cleaning, supports a double grill with a turnspit, and also offers a double grill mode combined with fan plus turnspit; the latter two features are essential.",201,69
+R2444,"I'm looking for an oven that definitely includes a top heating function, preferably also has a bottom heating element, and must be energy class A+.",167,46
+R2447,"I'm looking for a 60 cm metal built-in oven with retractable control knobs; it should include bottom with fan cooking, a double grill with a turnspit, and top-and-bottom heating.",230,58
+R2448,I'm looking for a convection oven that definitely has a double-grill function and ideally also includes a regular grill option.,171,41
+R2449,"I'm looking for a Wi‑Fi connected oven that includes steam cooking and HydroClean, has the double grill with fan option, and comes without a roasting tray.",207,50
+R2452,"I'm looking for an oven that includes a grill and a turnspit function, and it should be without a timer.",156,42
+R2458,"I'm looking for a white oven that includes HydroClean for easy self-cleaning; having an interior oven light would be a plus, and please ship it packaged in a box.",184,53
+R2467,"I’m looking for an oven that has both a top heating function and top-and-bottom heating, and it should come without a power plug attached.",172,47
+R2469,I'm looking for a black-handled oven that’s energy class A++; it must include a steam cooking function and ideally would come with two roasting trays.,183,49
+R2472,"I'm looking for an oven that includes a pyrolysis self-cleaning function, comes with exactly two baking trays, and has the K3-style control knobs.",171,49
+R2473,"I'm looking for an oven that includes a top heating function, has a metal control panel, and comes without any roasting tray.",168,43
+R2477,"I'm looking for an oven that definitely includes both a grill and a turnspit, and it must have the H4 style handle.",153,45
+R2478,"I'm looking for a new oven that has both a defrost setting and a steam cooking option, features retractable knobs, comes packaged with shrink wrap, and includes HydroClean self-cleaning.",206,56
+R2479,"I'm looking for an oven that definitely includes a HydroClean self-cleaning feature, and preferably also has 3D cooking capability; I would also prefer it come without a power cable.",173,55
+R2484,I'm looking for an oven that includes 3D cooking functionality and that has the H4-style handle.,151,39
+R2491,"I'm looking for an oven that has both top and bottom heating, includes a double grill with a fan, and does not have a turnspit.",174,48
+R2492,"I'm looking for an oven that definitely has a top heating function, preferably also a bottom heating function, with no Wi‑Fi connectivity, and ideally it comes with one roasting tray.",184,54
+R2493,"I'm looking for an oven that includes a grill and has a pyrolysis self-cleaning function, with a retractable knob design and the H1 handle style; I’d prefer it to use K5-type knobs if possible.",205,63
+R2500,I'm looking for a 60 cm silver built-in oven that includes pyrolytic self-cleaning and double grill functions; having a grill setting as well would be a plus.,205,53
+R2504,"I'm looking for a 45 cm oven with knobs type K1, no rotisserie spit, and it should include both bottom and bottom+fan cooking functions; top heating would be a welcome extra.",221,58
+R2505,"I'm looking for an oven that has top and bottom heating plus a fan, includes a digital timer, and comes packaged with shrink wrap.",171,45
+R2507,"I'm looking for a dark silver oven that has A+ energy efficiency, includes double grill with a fan and a turnspit, and offers pyrolysis self-cleaning.",213,52
+R2510,"I'm looking for an oven that has a defrost function and a double grill with fan, comes without a power cable, and has a silver handle.",191,48
+R2513,"I'm looking for a black oven that definitely has top, bottom and fan cooking plus a pizza mode, includes a pizza tray, and comes with one wire shelf; if possible I'd also like it to offer a double grill with fan.",229,64
+R2515,"I'm looking for an oven that definitely has a top heating function and a bottom+fan setting, would ideally also include a bottom-only function, preferably in dark silver, with no Wi‑Fi, and around five cooking functions in total.",220,65
+R2518,"I'm looking for an oven that includes both a grill function and a grill with fan option, ideally also offering a top and bottom heat mode with fan, and that has no telescopic rails.",196,56
+R2519,"I'm looking for an oven with a 75-liter capacity and exactly eight cooking functions, featuring a metal control panel and including pyrolytic self-cleaning; it would be great if it also has both top and bottom heating elements.",207,64
+R2524,"I'm looking for a built-in oven that has silver knobs, comes packaged in a box, and includes both fan+ring and top+bottom cooking functions; I'd prefer it to also offer a pyrolysis self-clean option and, if possible, not include a turnspit.",225,73
+R2525,"I'm looking for a 65-liter oven that definitely includes both a grill and a fan with ring function; ideally it would also have a pizza setting, and if possible come shrink-wrapped and with an H1-style handle.",222,63
+R2531,"I'm looking for an oven that definitely has a top heating function, and ideally also includes a bottom heating option; it must be 75 liters in capacity and come with K2-style knobs.",186,56
+R2537,I'm looking for a silver oven that includes HydroClean and also offers Steam and Fan+Ring cooking modes; I'd prefer one with an H4-style handle and no roasting tray.,223,53
+R2538,"I'm looking for an oven that definitely has both grill and fan functions, preferably also offering conventional top-and-bottom heating, and it must not have a rotisserie spit.",172,51
+R2540,I'm looking for an oven that comes packaged in a box and that offers top+bottom heating as well as separate top and bottom cooking functions.,187,46
+R2542,"I'm looking for an oven that definitely has a grill function and preferably also includes a double grill, with retractable knobs and the K5 style control knobs.",189,49
+R2545,"I'm looking for a 60 cm built-in oven that includes top, bottom and fan heating so I can get even baking—preferably with those combined cooking functions.",153,51
+R2546,"I'm looking for an oven that includes a double grill with fan and a turnspit (it must have a turnspit), has pyrolytic self-cleaning, and ideally also offers a fan + ring cooking mode.",198,63
+R2556,"I'm looking for an oven that includes steam cooking functionality, preferably also with a HydroClean self-cleaning feature, and it should come without a power cable.",171,49
+R2557,I’m looking for an oven that includes a bottom cooking function and that has a K2-style knob.,150,39
+R2560,"I'm looking for a white oven that includes a grill function (this is essential). Ideally it would have about eight cooking functions and not have Wi‑Fi, but those last two are flexible.",180,56
+R2562,I'm looking for an oven that definitely includes both a grill and a fan function; ideally it would offer a total of five cooking functions and should not have a rotisserie spit.,170,53
+R2563,"I'm looking for an oven that has a top-browning function, with an H2-style handle, and without any Wi‑Fi features.",163,46
+R2565,"I'm looking for an oven that includes both a double grill with fan and a pyrolytic self-cleaning function, preferably also offering top, bottom and fan cooking; it must not have a timer and must come with two roasting trays.",217,65
+R2566,"I'm looking for an oven that has a grill function, and it must be energy class A+.",149,37
+R2568,I'm looking for a white oven with an A+ energy rating that also includes a defrost function.,166,38
+R2572,"I'm looking for an oven that includes top and bottom heating as well as a combined top-plus-bottom mode, with K4-style knobs, and preferably an A energy rating.",203,52
+R2577,"I'm looking for an oven with a glass control panel, a handle in the H2 style, and a pizza tray included. It must have both grilling and fan cooking modes, and preferably also a bottom heat function.",203,61
+R2578,"I'm looking for a 65‑liter black oven that has top, bottom, and combined top+bottom heating functions.",205,42
+R2584,"I'm looking for a black-knob oven that supports Wi-Fi, includes 3D cooking and a double grill, and offers around 10 different functions—please prioritize the black knobs as essential.",203,57
+R2585,"I'm looking for an oven that definitely has a pyrolytic self-cleaning function and includes double grill with fan and a turnspit; I'd also prefer it to offer a fan with ring heating, and if possible I'd like it to come with K2-style knobs and an H2-type handle.",214,78
+R2590,"I'm looking for an oven with top, bottom and fan cooking functions and built-in pyrolytic self-cleaning, and I'd prefer it to also include a grill; please note the handle must be black.",190,59
+R2592,"I'm looking for an oven that has top, bottom and fan cooking plus a bottom-only mode and a double grill with fan; it must have stainless steel knobs, a glass control panel, and come with exactly one baking tray.",232,63
+R2593,"I'm looking for an oven that has a bottom heating function and also includes bottom+fan capability; please note I prefer one without Wi‑Fi, and I need it shipped in shrink packaging.",184,56
+R2598,"I'm looking for an oven that definitely has 3D cooking and hydroclean cleaning, ideally includes a bottom heating function, and comes packaged in a box.",206,49
+R2599,"I'm looking for a dark silver oven that includes both pyrolytic self-cleaning and a grill with a turnspit; if possible, I'd prefer it come without any wire shelving.",193,55
+R2600,"I'm looking for a new oven that has double-grill with fan plus a bottom-with-fan cooking mode, can defrost food, does not have Wi‑Fi, and is energy class A.",205,58
+R2604,I'm looking for an oven with a silver handle that has both a double grill with fan function and hydrociclen cleaning; preferably it can also do pizza but it must not have a rotisserie.,206,58
+R2609,"I'm looking for an oven with a H1-style handle; it should include top, bottom and fan cooking functions, and ideally come with one roasting tray.",172,49
+R2612,"I'm looking for an oven that includes a double grill with a turnspit and also has a defrost function; ideally it would offer a pyrolysis self-clean option as well, and I prefer one without a pizza tray.",196,63
+R2620,"I'm looking for an oven that includes pyrolysis self-cleaning, and if possible also a grill with a turnspit; I prefer a model with K2-style knobs and it must have rotary knob controls.",191,60
+R2626,"I'm looking for a combination oven that includes both steam and HydroClean functions, has rotary knobs, and ideally comes with two wire shelves.",206,45
+R2627,"I'm looking for a convection oven that definitely includes both Turbo and 3D cooking functions, has a pizza tray, preferably features HydroClean, and ideally comes without a baking tray.",228,54
+R2630,"I’m looking for a convection oven that has both top and bottom heating elements as well as a combined top+bottom mode, and I’d prefer one without a pizza tray.",207,53
+R2632,"I'm looking for an oven that includes a pyrolysis self-cleaning cycle and a defrost setting; I’d also prefer one with a double grill and turnspit, and without a timer.",197,57
+R2633,I'm looking for an oven that has a built-in grill and includes a bottom heating element with fan assistance; I'd prefer one with a glass front panel.,169,48
+R2636,"I'm looking for an oven that definitely includes a double grill with fan-assisted cooking and also has functions like a fan with a ring element; it should come with no roasting tray and exactly one baking tray, and packaging in shrink wrap would be preferred.",212,67
+R2637,"I'm looking for a convection oven that definitely has a grill function, preferably also offers pyrolysis self-cleaning, ideally without a timer option, and if possible comes with two telescopic rails.",211,56
+R2641,I'm looking for a new oven that definitely has a pyrolysis self-cleaning function; ideally it would feature a K2 style control knob and use pyrolysis for cleaning.,171,52
+R2642,"I'm looking for an oven that definitely has grill and fan cooking functions, uses the K4 style knobs, does not include a pizza tray, and features catalytic cleaning.",188,51
+R2643,"I'm looking for a 60 cm oven, packed in a box, that includes a double grill plus fan option.",169,41
+R2644,"I'm looking for an oven that has a top heating element and a bottom heating element with fan-assisted cooking, includes one roasting tray, and is energy class A; a silver control panel would be preferred.",203,58
+R2651,"I'm looking for an oven that includes grill with turnspit, top and bottom heating, and a double grill with fan plus turnspit; it must not have a timer and must have no Wi‑Fi, and if possible I'd prefer the K1-style knobs.",233,72
+R2658,"I'm looking for an oven that has top and bottom heating, comes without any wire shelves, and features an electronic touch timer.",174,43
+R2662,"I'm looking for an oven that definitely includes a double grill, pyrolytic self-cleaning, and a fan with a ring element, and it must not have any telescopic rails.",196,55
+R2664,I'm looking for a built-in oven with a glass control panel and conventional top-and-bottom heating; I'd prefer one that also offers a fan-with-ring cooking mode and is 60 cm wide.,187,56
+R2665,"I'm looking for a convection oven that includes a grill function, with a non-rotisserie interior (no turnspit), and a H4-style handle.",184,50
+R2667,"I'm looking for an oven that includes a top-cooking function, has white knobs of the K3 style, and does not have Wi‑Fi — the white K3 knobs are essential.",180,56
+R2668,"I'm looking for an oven that includes pyrolytic self-cleaning and a grill function, comes without a power cable, preferably packaged in a box, and ideally without Wi‑Fi.",202,55
+R2669,"I'm looking for a built-in oven that includes pyrolytic self-cleaning and a grill function, and it should come with two wire shelves; I’d also prefer one with the H3-style handle and, if possible, a double grill option.",208,68
+R2673,"I'm looking for a 45 cm wide built-in oven with a single set of telescopic rails; it should include a double grill function and a defrost setting, and I would prefer it without a pizza tray.",209,61
+R2676,"I'm looking for a 60 cm built-in oven with both top and bottom heating functions, a stainless steel handle, and preferably no wire shelf.",205,47
+R2678,"I'm looking for an oven that includes pyrolytic self-cleaning and top-and-bottom heating, and it must have a double grill with a turnspit; preferably the knobs are black, the front is a glass panel, and it has around eight functions.",229,70
+R2687,"I'm looking for a new oven that definitely has defrost and a double grill with fan, comes packaged in a box with no wire shelf, and preferably includes fan+ring cooking and two baking trays.",230,58
+R2689,"I'm looking for a 60 cm oven that has a double grill function and includes Grill and HydroClean cleaning features, and it must come with one roasting tray.",207,50
+R2695,"I'm looking for an oven that has top and bottom heating, includes a grill with a fan, has a digital timer, and comes without a roasting tray.",191,49
+R2697,"I'm looking for an oven that includes a double grill and an interior light, comes without a roasting tray, and uses a US-type power plug.",192,47
+R2698,"I'm looking for a convection oven with top, bottom and fan heating plus an oven light, featuring K1-style knobs, and ideally supplied without a power plug.",210,50
+R2700,"I'm looking for an oven that includes a turbo cooking function, has an electronic touch timer, features retractable knobs, and preferably supports Wi‑Fi.",187,48
+R2701,"I'm looking for an oven that includes double grill with fan and a turnspit, also offers grill with turnspit, has black knobs (and preferably a black handle), and ideally includes a digital timer.",211,60
+R2705,"I'm looking for a built-in oven that has top heating, bottom heating, and a combined top+bottom+fan cooking mode, with a silver handle, and it should not include a pizza tray or a turnspit.",224,63
+R2706,"I'm looking for an oven that definitely includes a double grill function and has an ""easy to clean"" or similar cleaning system.",150,43
+R2708,"I'm looking for an oven that can defrost foods (this is essential), and I'd prefer it to also have pizza and bottom-heating functions; I don't want a rotisserie/spit feature.",187,57
+R2717,"I'm looking for an oven that definitely has a grill function, preferably supports steam cooking, comes without a baking tray, and ideally includes Wi‑Fi connectivity.",184,49
+R2720,I'm looking for a 75‑liter oven that includes both a grill with a turnspit and a pyrolytic self‑cleaning function; preferably it would also have a fan with a ring element.,214,60
+R2727,"I'm looking for an oven that has pyrolytic self-cleaning and a double grill, and preferably also offers a fan-and-ring cooking mode with a glass control panel.",191,52
+R2728,I'm looking for an oven that has both a grill and a fan function and is rated energy class A+.,151,39
+R2731,"I'm looking for an oven that has both top and bottom heating elements, comes packaged in a box, and does not include a timer.",186,45
+R2732,"I'm looking for an oven that includes 3D cooking capability, has an H4-style handle, features a glass control panel if possible, and comes with two telescopic rails.",188,54
+R2738,"I'm looking for an oven that definitely has a bottom heating function and also includes bottom with fan and top+bottom+fan cooking modes; it must have an easy-clean/eco-friendly cleaning system, and I would prefer it to offer one roasting tray and about five selectable cooking functions.",227,74
+R2740,"I'm looking for an oven that has HydroClean self-cleaning, and preferably also includes Turbo and a Pizza function, with a UK type plug and HydroClean cleaning.",208,51
+R2746,"I'm looking for an oven with an 65-liter capacity that offers pyrolytic self-cleaning, includes both a double grill and a turnspit, does not come with a pizza tray, and provides exactly eight distinct cooking functions.",213,65
+R2748,"I'm looking for an oven that comes boxed and offers pyrolytic self-cleaning, and preferably includes both a fan and a ring heating function.",190,47
+R2757,"I'm looking for an oven that has catalytic self-cleaning and includes top, bottom and fan heating functions.",155,39
+R2759,"I'm looking for an oven that definitely has a bottom heat function, offers pizza and double grill modes if possible, does not include a rotisserie spit, and has exactly 11 functions in total.",206,57
+R2764,"I'm looking for a built-in oven that includes both top and bottom heating and has grill plus fan capabilities, and it must not have Wi‑Fi; I’d prefer one without a roasting tray and it must not have telescopic rails.",227,65
+R2768,I'm looking for an oven that has both top and bottom heating elements and comes with an EU-type power plug.,154,40
+R2769,"I'm looking for an oven that includes both top and bottom heating and an oven light, has one baking tray, and preferably offers a hydroclean self-cleaning feature.",191,51
+R2770,"I'm looking for a convection oven that includes double grill, bottom with fan, and grill cooking functions, with retractable knobs and an H2-style handle.",226,49
+R2771,"I'm looking for an oven that has a rotisserie spit, offers top, bottom and fan cooking together, and includes pyrolytic self-cleaning; I’d prefer one with retractable control knobs and a stainless-steel front.",212,64
+R2773,"I'm looking for an oven that has both a bottom-and-fan cooking mode and a top-and-bottom-with-fan setting, includes an oven light, has a metal control panel if possible, and does not include a rotisserie spit.",209,65
+R2774,"I'm looking for an oven that has a defrost setting and a grill function, and it must come with the K5-style control knob.",169,46
+R2777,"I'm looking for a built-in oven that offers pyrolysis self-cleaning, includes a grill function and a fan-with-ring cooking mode, has exactly one telescopic rail, and features retractable control knobs.",213,59
+R2783,"I'm looking for an oven that has a double grill function, includes a grill with fan option if possible, comes without a power cable, and has a silver handle—please make the double grill and no-cable requirements mandatory.",206,63
+R2787,"I'm looking for an oven that includes HydroClean self-cleaning, and it must come with one wire shelf; I'd also prefer if it has a single telescopic rail.",174,52
+R2788,"I'm looking for a combination oven that includes pizza and HydroClean functions, and preferably also offers a steam option, packaged with shrink wrap.",205,45
+R2791,"I'm looking for an oven that includes a double grill and a turnspit function, comes without a pizza tray, and must have two roasting trays.",176,48
+R2792,"I need an oven that has an oven light and includes both double grill with a turnspit and a grill with a turnspit, and it should be without a timer.",199,54
+R2793,"I'm looking for an oven that has a defrost function, comes with an H2-style handle, and does not have Wi‑Fi.",164,46
+R2798,"I'm looking for an oven that includes a defrost function and an interior light, has an energy rating of A+, comes with exactly one wire shelf, and preferably does not include a roasting tray.",207,57
+R2812,"I'm looking for an oven that offers both top and bottom heating elements, comes shrink-wrapped for delivery, and preferably has an H4-style handle with retractable knobs.",203,52
+R2818,"I'm looking for an oven that has a bottom heating function and includes HydroClean self-cleaning, ideally also with a Turbo mode, packaged with shrink wrap and supplied without any baking tray.",207,55
+R2819,"I'm looking for an oven that includes a steam cooking function, and it must come without a roasting tray and without telescopic rails; I’d prefer one that also doesn't have a turnspit.",190,57
+R2821,"I'm looking for an oven that has HydroClean self-cleaning, includes a bottom cooking function and 3D cooking capability if possible, comes with an electronic touch timer, features exactly 10 functions, and preferably has a silver front.",226,65
+R2824,I'm looking for an oven that definitely has a double grill plus fan function and uses rotary knobs for the controls.,154,40
+R2826,I'm looking for a silver oven with a silver handle that has exactly eight cooking functions and includes a double grill plus fan option; the double-grill-with-fan feature would be preferred but the silver handle and eight-function count are essential.,187,65
+R2828,"I'm looking for an oven with silver knobs that includes a bottom+fan cooking function, offers eight functions in total, and comes with two roasting trays.",189,48
+R2830,"I'm looking for an oven that includes HydroClean and a grill function (and ideally a DoubleGrill with fan), has a glass control panel, and does not come with a roasting tray.",209,56
+R2836,"I'm looking for an oven that includes an oven light, preferably with a white control knob, ideally offering 11 functions and without any wire shelf.",187,47
+R2837,"I'm looking for an oven with a black knob that includes pyrolytic self-cleaning and supports top+bottom heating as well as a top+bottom+fan setting, and it must have a rotisserie turnspit.",210,63
+R2842,I'm looking for an oven with an A+ energy rating and K3-style control knobs; it should include a grill function and I don't want a roasting tray.,185,50
+R2848,I'm looking for a 60 cm oven with a 75 L capacity that has catalytic self-cleaning and includes a grill plus fan function.,187,46
+R2852,"I'm looking for an oven that includes a fan-plus-ring cooking mode, features hydroclean self-cleaning, and is supplied without a power plug.",172,47
+R2855,I'm looking for a built-in oven that definitely has catalytic self-cleaning and includes both bottom heat with fan and a defrost function; I'd prefer it come in shrink-wrapped packaging and it must not include a roasting tray.,208,63
+R2856,"I'm looking for an oven that includes a double grill with fan assistance, has no turnspit, comes without a roasting tray, and preferably features a glass control panel.",189,52
+R2858,"I'm looking for an oven with exactly eight functions that includes both a double grill with fan and a pyrolysis self-clean feature, comes with a UK type plug, and preferably without a baking tray.",213,57
+R2859,"I'm looking for an oven that includes both a double grill with a turnspit and top-and-bottom heating, preferably with rotary knobs; it must be shrink-wrapped for shipment and must not include any wire shelves.",212,61
+R2864,"I'm looking for an oven that has both top and bottom heating elements, preferably with K3-style knobs, and I don't want Wi‑Fi connectivity.",182,48
+R2865,"I'm looking for an oven that has double grill, a fan with a turnspit function, and an interior light; it should come with two baking trays, be energy class A+, and must not have Wi‑Fi.",209,63
+R2867,"I'm looking for an oven with a glass front panel and built-in steam cooking, no rotisserie/spit function, preferably one that also has pizza and fan+ring cooking modes, and with an H2-style handle.",220,62
+R2870,"I'm looking for a new oven that has a top heating element, definitely does not include a roasting tray, and preferably also offers a bottom heating setting with a fan.",172,51
+R2871,I'm looking for an oven that comes packaged in a box and includes pyrolytic self-cleaning and a fan plus ring cooking function; I would also prefer one that offers a double grill option.,191,57
+R2872,I'm looking for an oven that definitely has a built-in grill with a turnspit and includes an oven light.,173,41
+R2875,"I'm looking for an oven that includes a bottom-heating plus fan mode and also features a double grill with fan and a turnspit, it must come with an EU type plug and include exactly two baking trays; ideally it would have K2-style knobs but that's optional.",216,73
+R2877,"I'm looking for an oven that definitely has 3D cooking functionality; it would be a plus if it also offers a bottom-heat option, I don't want one with a rotisserie, and I'd prefer it to be energy class A.",185,66
+R2879,I'm looking for a built-in oven with a rotary knob in silver; it must have a Fan+Ring cooking mode and preferably also offer a pyrolysis self-cleaning function.,189,53
+R2881,"I'm looking for a 60 cm wide oven with a 65 L capacity that has Double Grill with fan, an interior light, and HydroClean for cleaning.",227,50
+R2882,I'm looking for a silver built-in oven that has top and bottom heating and also a combined top-and-bottom setting.,187,41
+R2883,"I'm looking for an A+ energy oven that definitely has a turnspit and includes double grill, fan, and a rotisserie function.",174,46
+R2885,I'm looking for a white-panel oven with a built-in pyrolysis self-cleaning feature and two roasting trays; I'd prefer one that includes a double grill with a turnspit option and black control knobs if possible.,209,61
+R2889,"I'm looking for an oven that definitely has a bottom heating element and a turbo setting, comes with two telescopic rails and one wire shelf, and preferably includes HydroClean and an A energy rating.",226,57
+R2891,"I'm looking for an oven with a metal control panel that includes double grill with fan and a turnspit, also offers grill with turnspit and double grill with turnspit, preferably without Wi‑Fi and ideally energy class A.",232,66
+R2894,"I'm looking for an oven that includes a pyrolytic self-cleaning function, comes packaged using shrink wrap, and has exactly one telescopic rail.",173,48
+R2895,I'm looking for a white oven with a white glass control panel that includes a defrost setting and a double grill with fan; if possible I'd also like it to have HydroClean.,221,54
+R2896,"I'm looking for a convection oven that includes top and bottom heating, a grill with a turnspit, and a double grill with turnspit capability.",199,49
+R2898,"I'm looking for an oven that includes both turbo and 3D cooking functions, and it must come with exactly one wire shelf.",173,44
+R2899,"I'm looking for an oven that includes a grill and a turnspit function, and it must be delivered in shrink-wrapped packaging.",154,45
+R2902,I'm looking for an oven that definitely includes a bottom heating function and has a total of 11 different cooking functions.,151,41
+R2903,"I'm looking for an oven that has 11 different functions, includes an oven light, and comes without a power cable.",171,42
+R2907,"I'm looking for a convection oven that definitely has both a double grill with a turnspit and a double grill with fan plus turnspit, and it must have pyrolytic self-cleaning; if possible I'd prefer a metal control panel.",238,67
+R2910,"I'm looking for a non-smart oven (no Wi‑Fi) that includes oven light, supports top + bottom + fan cooking as well as a double-grill with fan, and preferably has an H1-style handle.",208,62
+R2911,"I'm looking for a 60 cm oven that definitely includes a grill and a rotisserie/turnspit function, and it must not come with a pizza tray.",171,51
+R2912,"I'm looking for an oven that includes top and bottom heating, also has a double grill with a fan and a turnspit, offers a pyrolytic self-cleaning cycle, and must be delivered in shrink-wrapped packaging.",198,64
+R2920,"I'm looking for a white-handled oven with a glass control panel, preferably with H4-style handles and featuring a double grill plus a turnspit function.",186,50
+R2922,"I'm looking for a built-in oven that definitely has a grill function and comes with a US-type power plug; I’d prefer one that also includes a double-grill option and a pyrolysis self-cleaning feature, and if possible a black control panel.",207,69
+R2924,"I'm looking for a convection oven that includes 3D cooking capability and a double grill, and if possible also offers a turbo function.",192,45
+R2925,I'm looking for a 90 cm stainless steel oven that has HydroClean self-cleaning and preferably includes a steam cooking function; if possible I'd like it shipped with shrink packaging.,204,53
+R2928,"I'm looking for an oven with both top and bottom heating elements, a capacity of 82 liters, and preferably without Wi‑Fi.",183,45
+R2929,"I'm looking for a built-in oven that includes both a grill and a rotisserie function, has two telescopic rails, and preferably comes with an H4-style handle.",174,52
+R2932,"I'm looking for an oven that has both top and bottom heating elements; ideally it would have the K2-style knobs, no Wi‑Fi features, and come without a roasting tray.",185,55
+R2934,"I'm looking for a 60 cm oven with a glass control panel that definitely has a bottom heating element, and preferably also offers both grill with fan and 3D cooking functions.",205,54
+R2938,"I need an oven that has a top heating function and would prefer one that also offers bottom heating, with a handle type H1.",167,45
+R2939,"I'm looking for a convection oven (no Wi‑Fi) that includes defrost and also offers top, bottom and fan heating; it should not come with a roasting tray.",207,53
+R2942,"I'm looking for an oven that has pyrolytic cleaning and includes both grill with turnspit and a double grill plus fan with turnspit, preferably offering eight functions in total, and it must have silver control knobs.",218,63
+R2944,"I'm looking for an oven that has a retractable knob and includes a turnspit feature as well as grill functions — specifically a double grill with fan plus turnspit if possible, and at minimum a double grill with turnspit.",206,66
+R2945,I'm looking for a Wi‑Fi enabled convection oven with stainless steel knobs that includes a bottom-bake function.,185,40
+R2946,"I'm looking for a built-in oven that definitely has top, bottom and fan cooking together, also includes a fan+ring option, and preferably comes shrink-wrapped.",174,51
+R2947,"I'm looking for an oven that definitely has Turbo cooking, and preferably also features a Grill with fan, with a silver handle and K5-style knobs.",187,48
+R2954,"I'm looking for an oven that includes 3D cooking and turbo functions and a double grill with fan, preferably with Hydrocylean cleaning and including one baking tray.",213,52
+R2955,I'm looking for an oven that includes a bottom cooking function and features HydraClean self-cleaning.,151,37
+R2956,"I'm looking for an oven that has a grill and also offers a top, bottom and fan cooking mode, and it must come with two wire shelves.",174,48
+R2959,"I'm looking for a black metal-front oven (no power cable) that definitely has top, bottom and fan cooking, and preferably also includes a double grill.",207,49
+R2961,"I'm looking for an oven that includes both a grill with a turnspit and a double grill with fan plus turnspit, has a turnspit feature, and comes with black knobs; a model with a digital timer would be preferred.",213,67
+R2963,I'm looking for a 60 cm freestanding oven with K2-style knobs; I'd prefer it to include an interior oven light.,167,44
+R2965,I'm looking for an oven that includes the HydroClean function; ideally it should feature HydroClean cleaning and come with a US-type power plug.,171,46
+R2966,"I'm looking for an oven that definitely has both grill with fan and top-and-bottom heating functions, and preferably also includes a defrost setting; I'd like it to come with a UK-type plug and, if possible, without a rotisserie/spit.",210,68
+R2969,I'm looking for an oven that includes a double grill with fan-assisted cooking and comes with exactly two wire shelves.,156,40
+R2972,"I'm looking for an oven with a 65-liter capacity and exactly one baking tray, preferably one that also includes a grill and a turnspit function.",174,49
+R2975,"I'm looking for an oven with a sleek glass control panel; it should have steam cooking capability, built-in Wi‑Fi, and ideally come packaged with shrink wrap.",180,51
+R2977,"I'm looking for a 60 cm wide oven with retractable knobs and no telescopic rails; ideally it should include a double grill and a turnspit, but the grill/turnspit combo is a preference rather than a strict requirement.",195,67
+R2978,"I'm looking for an oven that has double grill, fan, and a turnspit, definitely with a built-in rotisserie function, finished in silver, and I’d prefer retractable control knobs if available.",193,60
+R2979,"I'm looking for an oven that has double grill with fan, also includes a regular grill option, comes without a timer, uses K4-style knobs, and does not include a roasting tray.",210,56
+R2980,I'm looking for a convection oven with retractable knobs and no roasting tray; it must support 3D cooking and preferably also include a pizza function.,209,48
+R2984,"I'm looking for an oven that definitely includes a grill and a fan with ring heating, and it must have retractable control knobs; if possible I'd also prefer one with a pyrolysis self-cleaning function.",192,59
+R2985,"I need an oven that offers top+bottom heating, plus separate top and bottom heating options, and it must not have Wi‑Fi.",185,46
+R2987,"I'm looking for an oven that definitely has a top heating element and ideally also includes a bottom heating plus fan function; I’d prefer a glass-front control panel, about a 75‑liter capacity, and no Wi‑Fi.",201,64
+R2994,I'm looking for a 60 cm wide oven that has bottom heat with a fan and includes both a double grill with a turnspit and a grill with a turnspit; it must have an ETC cleaning system.,212,62
+R2995,I'm looking for a black glass-front oven that offers a pyrolysis self-cleaning function; Wi‑Fi connectivity is not necessary.,180,44

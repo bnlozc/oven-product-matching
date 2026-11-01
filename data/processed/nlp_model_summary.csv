@@ -1,0 +1,5 @@
+﻿TASK,MODEL,DATASET,MICRO_F1,MACRO_F1,EXACT_MATCH,STATUS
+Requirement Extraction,TF-IDF + Logistic Regression,Validation,0.8748,0.8855,0.3906,Baseline
+Requirement Extraction,TF-IDF + Linear SVM,Test,0.9299,0.913,0.6477,Selected
+Priority Classification,TF-IDF + Logistic Regression,Validation,,0.6496,,Selected
+Priority Classification,TF-IDF + Linear SVM,Validation,,0.6483,,Alternative
